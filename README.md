@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Welcome👋! My name is sypcerr and I'm a 15 y.o. Lua Script and UI Dev, from Germany.</h2>
+<h2 align="center">Welcome👋! My name is sypcerr and I'm a 16 y.o. Lua Script and UI Dev, from Germany.</h2>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sypcerr.sypcerr&left_color=cyan&right_color=aquamarine"  />
 
 ###
