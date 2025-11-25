@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://instagram.com/sypcerr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cyan&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  
   </a>
   <a href="discordapp.com/users/1000131797545394267" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=cyan&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
