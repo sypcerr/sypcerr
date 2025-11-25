@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="center">My current project is Aegis, check in out (;</p>
+<p align="center">Check out my repos or go to https://sypcerr.github.io</p>
 
 ###
 
