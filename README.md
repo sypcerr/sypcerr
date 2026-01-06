@@ -3,69 +3,69 @@
 </div>
 
 <p align="center">
-  <a href="#de">🇩🇪 Deutsch</a> | <a href="#en">🇬🇧 English</a>
+  <a href="#english">🇬🇧 English</a> | <a href="#deutsch">🇩🇪 Deutsch</a>
 </p>
 
 ---
 
-<a name="de"></a>
+<a name="english"></a>
 
-<h2 align="center">👋 Hallo, ich bin Paul (GitHub: sypcerr)</h2>
+<h2 align="center">👋 Hi, I'm Paul (GitHub: sypcerr)</h2>
 
 <p align="center">
-Angehender <strong>Fachinformatiker für Anwendungsentwicklung</strong><br>
-Interesse an Softwareentwicklung, Automatisierung & UI-Systemen
+Aspiring <strong>IT Specialist for Application Development</strong><br>
+Focused on software development, automation & clean code
 </p>
 
 ---
 
-## 👨‍💻 Über mich
+## 👨‍💻 About Me
 
-* 🎓 Schüler aus Deutschland, mit dem Ziel einer <strong>Ausbildung als Fachinformatiker für Anwendungsentwicklung</strong>
-* 💡 Starkes Interesse an strukturierter Softwareentwicklung und technischen Zusammenhängen
-* 🛠️ Praxisorientiertes Lernen durch eigene Projekte
-* 🚀 Selbstständig, lernbereit und motiviert, mich fachlich weiterzuentwickeln
+* 🎓 Student from Germany, preparing for an <strong>apprenticeship as an IT specialist for application development</strong>
+* 💡 Strong interest in structured software development and technical fundamentals
+* 🛠️ Hands-on learning through personal, non-gaming-related projects
+* 🚀 Self-motivated, reliable and eager to grow professionally
 
-Mir ist wichtig, **sauberen, verständlichen Code** zu schreiben und Konzepte wirklich zu verstehen – nicht nur Lösungen zu kopieren.
+I focus on writing **clean, understandable code** and building systems that are easy to maintain.
 
 ---
 
-## 🧰 Technische Kenntnisse
+## 🧰 Technical Skills
 
-**Programmiersprachen**
+**Programming Languages**
 
-* Python (Grundlagen, Logik, kleine Tools)
-* Lua (Skripting, Logik)
+* Python (logic, small tools, automation basics)
+* Lua (scripting, logic fundamentals)
 
-**Tools & Technologien**
+**Tools & Technologies**
 
-* Visual Studio / VS Code
 * Git & GitHub
-* Arduino (Grundlagen)
-* Blender (Grundlagen, 3D-Assets)
+* Visual Studio / VS Code
+* Arduino (basics)
+* Blender (basic asset handling)
 
-**Arbeitsweise**
+**Working Style**
 
-* Strukturierte Problemanalyse
-* Modulares Denken
-* Fehleranalyse & Debugging
-* Lernbereitschaft und Zuverlässigkeit
-
----
-
-## 📂 Projekte
-
-Meine Repositories enthalten vor allem:
-
-* Kleine Software-Projekte
-* Logik- und Skripting-Beispiele
-* Übungsprojekte zum Vertiefen von Grundlagen
-
-🔗 **Portfolio & Übersicht:** [https://sypcerr.github.io](https://sypcerr.github.io)
+* Structured problem solving
+* Modular thinking
+* Debugging & analysis
+* Continuous learning mindset
 
 ---
 
-## 📊 GitHub Aktivität
+## 📂 Projects
+
+My repositories focus on:
+
+* Small software tools
+* Logic and scripting exercises
+* Learning projects with clean structure
+
+🔗 **Portfolio overview:** [https://sypcerr.github.io](https://sypcerr.github.io)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sypcerr&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true" height="150" />
@@ -73,7 +73,7 @@ Meine Repositories enthalten vor allem:
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 <div align="center">
   <a href="https://discordapp.com/users/1000131797545394267" target="_blank">
@@ -83,59 +83,55 @@ Meine Repositories enthalten vor allem:
 
 ---
 
+<p align="center"><i>Motivated, reliable, and ready to start a professional career.</i></p>
+
+---
+
+<a name="deutsch"></a>
+
+<h2 align="center">👋 Hallo, ich bin Paul (GitHub: sypcerr)</h2>
+
 <p align="center">
-<i>Motiviert zu lernen, zuverlässig und bereit für den Einstieg ins Berufsleben.</i>
+Angehender <strong>Fachinformatiker für Anwendungsentwicklung</strong><br>
+Fokus auf Softwareentwicklung, Automatisierung & sauberen Code
 </p>
 
 ---
 
-<a name="en"></a>
+## 👨‍💻 Über mich
 
-<h2 align="center">👋 Hi, I'm Paul (GitHub: sypcerr)</h2>
+* 🎓 Schüler aus Deutschland mit dem Ziel einer <strong>Ausbildung als Fachinformatiker für Anwendungsentwicklung</strong>
+* 💡 Großes Interesse an strukturierter Softwareentwicklung und technischen Grundlagen
+* 🛠️ Praxisnahes Lernen durch eigene, nicht-spielbezogene Projekte
+* 🚀 Zuverlässig, motiviert und lernbereit
 
-<p align="center">
-Aspiring <strong>IT Specialist for Application Development</strong><br>
-Interested in software development, automation & UI systems
-</p>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Student from Germany, preparing for an <strong>apprenticeship as an IT specialist for application development</strong>
-* 💡 Strong interest in structured software development and technical fundamentals
-* 🛠️ Hands-on learning through personal projects
-* 🚀 Self-motivated, reliable and eager to grow professionally
-
-I focus on writing **clean, understandable code** and learning fundamentals properly.
+Mein Fokus liegt auf **verständlichem, wartbarem Code** und sauberer Struktur.
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Technische Kenntnisse
 
-**Programming Languages**
+**Programmiersprachen**
 
-* Python (basics, logic, small tools)
-* Lua (scripting, logic)
+* Python (Logik, kleine Tools, Automatisierung)
+* Lua (Skripting, Logikgrundlagen)
 
-**Tools & Technologies**
+**Tools & Technologien**
 
-* Visual Studio / VS Code
 * Git & GitHub
-* Arduino (basics)
-* Blender (basic 3D assets)
+* Visual Studio / VS Code
+* Arduino (Grundlagen)
+* Blender (Grundlagen)
 
-**Working Style**
+**Arbeitsweise**
 
-* Structured problem solving
-* Modular thinking
-* Debugging & analysis
-* Strong willingness to learn
+* Strukturierte Problemlösung
+* Modulares Denken
+* Fehleranalyse & Debugging
+* Hohe Lernbereitschaft
 
 ---
 
-<p align="center">
-<i>Motivated, reliable, and ready to start a professional career.</i>
-</p>
+<p align="center"><i>Motiviert zu lernen, zuverlässig und bereit für den Einstieg ins Berufsleben.</i></p>
 
 <img src="https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg" alt="Snake animation" />
