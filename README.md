@@ -20,17 +20,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-* 🎓 Student from Germany, preparing for an <strong>apprenticeship as an IT specialist for application development</strong>
-* 💡 Strong interest in structured software development and technical fundamentals
-* 🛠️ Hands-on learning through personal, non-gaming-related projects
-* 🚀 Self-motivated, reliable and eager to grow professionally
-
-I focus on writing **clean, understandable code** and building systems that are easy to maintain.
-
----
-
 ## 🧰 Technical Skills
 
 **Programming Languages**
@@ -41,16 +30,10 @@ I focus on writing **clean, understandable code** and building systems that are 
 **Tools & Technologies**
 
 * Git & GitHub
+
 * Visual Studio / VS Code
-* Arduino (basics)
-* Blender (basic asset handling)
 
-**Working Style**
-
-* Structured problem solving
-* Modular thinking
-* Debugging & analysis
-* Continuous learning mindset
+* Visual Studio / VS Code
 
 ---
 
@@ -102,17 +85,6 @@ My repositories focus on:
 
 ---
 
-## 👨‍💻 Über mich
-
-* 🎓 Schüler aus Deutschland mit dem Ziel einer <strong>Ausbildung als Fachinformatiker für Anwendungsentwicklung</strong>
-* 💡 Großes Interesse an strukturierter Softwareentwicklung und technischen Grundlagen
-* 🛠️ Praxisnahes Lernen durch eigene, nicht-spielbezogene Projekte
-* 🚀 Zuverlässig, motiviert und lernbereit
-
-Mein Fokus liegt auf **verständlichem, wartbarem Code** und sauberer Struktur.
-
----
-
 ## 🧰 Technische Kenntnisse
 
 **Programmiersprachen**
@@ -123,16 +95,10 @@ Mein Fokus liegt auf **verständlichem, wartbarem Code** und sauberer Struktur.
 **Tools & Technologien**
 
 * Git & GitHub
+
 * Visual Studio / VS Code
-* Arduino (Grundlagen)
-* Blender (Grundlagen)
 
-**Arbeitsweise**
-
-* Strukturierte Problemlösung
-* Modulares Denken
-* Fehleranalyse & Debugging
-* Hohe Lernbereitschaft
+* Visual Studio / VS Code
 
   <p align="center"><i>Motiviert zu lernen, zuverlässig und bereit für den Einstieg ins Berufsleben.</i></p>
 
@@ -140,4 +106,4 @@ Mein Fokus liegt auf **verständlichem, wartbarem Code** und sauberer Struktur.
 
 ---
 
-<img src="[https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg](https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg)" alt="Snake ani
+<img src="https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg" alt="Snake animation" />
