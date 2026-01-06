@@ -2,20 +2,21 @@
   <img height="80" src="https://share.creavite.co/67d2386b89908441e5524e9b.gif" />
 </div>
 
-<p align="center">
-  <a href="#english">🇬🇧 English</a> | <a href="#deutsch">🇩🇪 Deutsch</a>
-</p>
-
 ---
 
-<a name="english"></a>
+<!-- LANGUAGE SWITCH (GitHub-supported, no JS) -->
 
-<h2 align="center">👋 Hi, I'm Paul (GitHub: sypcerr)</h2>
+<details open>
+  <summary><strong>🇬🇧 English (click to collapse)</strong></summary>
 
-<p align="center">
-Aspiring <strong>IT Specialist for Application Development</strong><br>
-Focused on software development, automation & clean code
-</p>
+  <br />
+
+  <h2 align="center">👋 Hi, I'm Paul (GitHub: sypcerr)</h2>
+
+  <p align="center">
+  Aspiring <strong>IT Specialist for Application Development</strong><br>
+  Focused on software development, automation & clean code
+  </p>
 
 ---
 
@@ -67,34 +68,37 @@ My repositories focus on:
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sypcerr&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true" height="150" />
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sypcerr&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true" height="150" />
+  </div>
 
 ---
 
 ## 📫 Contact
 
-<div align="center">
-  <a href="https://discordapp.com/users/1000131797545394267" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=cyan&logoColor=white&style=flat" height="30" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://discordapp.com/users/1000131797545394267" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=cyan&logoColor=white&style=flat" height="30" />
+    </a>
+  </div>
+
+  <p align="center"><i>Motivated, reliable, and ready to start a professional career.</i></p>
+
+</details>
 
 ---
 
-<p align="center"><i>Motivated, reliable, and ready to start a professional career.</i></p>
+<details>
+  <summary><strong>🇩🇪 Deutsch (klicken zum Anzeigen)</strong></summary>
 
----
+  <br />
 
-<a name="deutsch"></a>
+  <h2 align="center">👋 Hallo, ich bin Paul (GitHub: sypcerr)</h2>
 
-<h2 align="center">👋 Hallo, ich bin Paul (GitHub: sypcerr)</h2>
-
-<p align="center">
-Angehender <strong>Fachinformatiker für Anwendungsentwicklung</strong><br>
-Fokus auf Softwareentwicklung, Automatisierung & sauberen Code
-</p>
+  <p align="center">
+  Angehender <strong>Fachinformatiker für Anwendungsentwicklung</strong><br>
+  Fokus auf Softwareentwicklung, Automatisierung & sauberen Code
+  </p>
 
 ---
 
@@ -130,8 +134,10 @@ Mein Fokus liegt auf **verständlichem, wartbarem Code** und sauberer Struktur.
 * Fehleranalyse & Debugging
 * Hohe Lernbereitschaft
 
+  <p align="center"><i>Motiviert zu lernen, zuverlässig und bereit für den Einstieg ins Berufsleben.</i></p>
+
+</details>
+
 ---
 
-<p align="center"><i>Motiviert zu lernen, zuverlässig und bereit für den Einstieg ins Berufsleben.</i></p>
-
-<img src="https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg](https://raw.githubusercontent.com/sypcerr/sypcerr/output/snake.svg)" alt="Snake ani
