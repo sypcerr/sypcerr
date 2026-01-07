@@ -9,15 +9,13 @@
 
 ## 🧰 Technical Skills
 
-**Programming Languages**
+**Programming Languages**  
 
-* Python (logic, small tools, automation basics)
-* Lua (scripting, logic fundamentals)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+</p>
 
-**Tools & Technologies**
-
-* Git & GitHub
-* Visual Studio / VS Code
 
 ---
 
@@ -48,15 +46,13 @@ My repositories focus on:
 
 ## 🧰 Technische Kenntnisse
 
-**Programmiersprachen**
+**Programmiersprachen**  
 
-* Python (Logik, kleine Tools, Automatisierung)
-* Lua (Skripting, Logikgrundlagen)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+</p>
 
-**Tools & Technologien**
-
-* Git & GitHub
-* Visual Studio / VS Code
 
 ---
 
