@@ -1,0 +1,23 @@
+name: Run Pixel Miner
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: node index.js
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Miner extracted more resources"
+          file_pattern: "mining-grid.svg"
