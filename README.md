@@ -1,69 +1,60 @@
-<details open>
-  <summary><strong>🇬🇧 English (click to collapse)</strong></summary>
+# 👋 Hi, I'm Paul! (sypcerr)
 
-  <br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
+  <img src="https://img.shields.io/github/repo-size/sypcerr/sypcerr" alt="Repo Size">
+</p>
 
-  <h2 align="center">👋 Hi, I'm Paul (GitHub: sypcerr)</h2>
+---
+
+## 📝 About Me
+
+I am a passionate developer focused on writing clean, efficient, and readable code. I love breaking down complex logic into small, reusable software tools and automation scripts. Always learning, always building.
+
+* 🧠 Currently sharpening my skills in **JavaScript** and **Lua**.
+* ⚡ Fun fact: I enjoy optimizing workflows and solving logic puzzles.
+* 📬 How to reach me: Check my GitHub pinned repositories or open an issue!
 
 ---
 
 ## 🧰 Technical Skills
 
-**Programming Languages**  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+### 💻 Programming Languages
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  </a>
 </p>
 
+### 🛠️ Tools & Environment
+* **Version Control:** Git & GitHub
+* **Editor/IDE:** VS Code (oder hier deinen Lieblings-Editor eintragen)
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-My repositories focus on:
+### 🛠️ [Project Name 1](https://github.com/sypcerr/your-repo-link)
+> *Brief 1-sentence description of what this tool does.*
+* Built with: **JavaScript**
+* Key Feature: Automation / Clean logic structure.
 
-* Small software tools
-* Logic and scripting exercises
-* Learning projects with clean, readable structure
-
----
-
-  <p align="center"><i>Motivated, reliable, and ready.</i></p>
-
-</details>
+### 🌙 [Project Name 2](https://github.com/sypcerr/your-repo-link)
+> *Brief 1-sentence description of this scripting exercise.*
+* Built with: **Lua**
+* Key Feature: Lightweight and highly efficient backend logic.
 
 ---
 
-<details>
-  <summary><strong>🇩🇪 Deutsch (klicken zum Anzeigen)</strong></summary>
+## 📊 GitHub Stats
 
-  <br />
-
-  <h2 align="center">👋 Hallo, ich bin Paul (GitHub: sypcerr)</h2>
-
----
-
-## 🧰 Technische Kenntnisse
-
-**Programmiersprachen**  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sypcerr&show_icons=true&theme=radical" alt="Paul's GitHub stats" width="400" />
 </p>
 
-
 ---
 
-## 📂 Projekte
-
-Meine Repositories konzentrieren sich auf:
-
-* Kleine Software-Tools
-* Logik- und Skripting-Übungen
-* Lernprojekte mit sauberer, nachvollziehbarer Struktur
-
-  <p align="center"><i>Motiviert zu lernen, zuverlässig und bereit.</i></p>
-
-</details>
+<p align="center"><i>Driven to learn, reliable in execution, and ready for the next challenge.</i></p>
