@@ -59,23 +59,22 @@ async function getContributions() {
 }
 
 function buildBlockAnimation(block, totalTime) {
-    const rand   = seededRand(block.x * 97 + block.y * 31 + block.level * 7);
     const colors = { 0: '#161b22', 1: '#0e4429', 2: '#006d32', 3: '#26a641', 4: '#39d353' };
     const color  = colors[block.level];
 
     const startPct   = ((block.startTime / totalTime) * 100).toFixed(2);
     const hitPct     = ((block.endTime   / totalTime) * 100).toFixed(2);
     const respawnPct = (((totalTime - RESPAWN_FADE) / totalTime) * 100).toFixed(2);
-
     const crackStart = Math.max(0, parseFloat(hitPct) - 1.5).toFixed(2);
+    const crackPeak  = (parseFloat(crackStart) + 0.4).toFixed(2);
 
+    const crackRand = seededRand(block.x * 53 + block.y * 17);
     const crackLines = [];
-    const crackRand  = seededRand(block.x * 53 + block.y * 17);
     for (let i = 0; i < 4; i++) {
-        const cx  = (block.xPos + 2 + crackRand() * 6).toFixed(1);
-        const cy  = (block.yPos + 2 + crackRand() * 6).toFixed(1);
-        const ex  = (block.xPos + 1 + crackRand() * 8).toFixed(1);
-        const ey  = (block.yPos + 1 + crackRand() * 8).toFixed(1);
+        const cx = (block.xPos + 2 + crackRand() * 6).toFixed(1);
+        const cy = (block.yPos + 2 + crackRand() * 6).toFixed(1);
+        const ex = (block.xPos + 1 + crackRand() * 8).toFixed(1);
+        const ey = (block.yPos + 1 + crackRand() * 8).toFixed(1);
         crackLines.push(`<line class="crack-${block.x}-${block.y}" x1="${cx}" y1="${cy}" x2="${ex}" y2="${ey}" stroke="${color}" stroke-width="0.8" stroke-linecap="round"/>`);
     }
 
@@ -85,20 +84,20 @@ function buildBlockAnimation(block, totalTime) {
             transform-origin: ${block.xPos + 5}px ${block.yPos + 5}px;
         }
         @keyframes break-${block.x}-${block.y} {
-            0%, ${startPct}%              { opacity: 1; transform: scale(1); }
-            ${crackStart}%               { opacity: 1; transform: scale(1); }
-            ${hitPct}%                   { opacity: 0; transform: scale(0.15); }
-            ${hitPct}%, ${respawnPct}%   { opacity: 0; transform: scale(0); }
-            100%                         { opacity: 1; transform: scale(1); }
+            0%, ${startPct}%           { opacity: 1; transform: scale(1); }
+            ${crackStart}%             { opacity: 1; transform: scale(1); }
+            ${hitPct}%                 { opacity: 0; transform: scale(0.15); }
+            ${hitPct}%, ${respawnPct}% { opacity: 0; transform: scale(0); }
+            100%                       { opacity: 1; transform: scale(1); }
         }
         .crack-${block.x}-${block.y} {
             animation: crack-${block.x}-${block.y} ${totalTime}s infinite linear;
         }
         @keyframes crack-${block.x}-${block.y} {
-            0%, ${crackStart}%           { opacity: 0; }
-            ${(parseFloat(crackStart) + 0.3).toFixed(2)}% { opacity: 0.9; }
-            ${hitPct}%                   { opacity: 0; }
-            100%                         { opacity: 0; }
+            0%, ${crackStart}% { opacity: 0; }
+            ${crackPeak}%      { opacity: 0.85; }
+            ${hitPct}%         { opacity: 0; }
+            100%               { opacity: 0; }
         }`;
 
     return { blockAnim, crackLines: crackLines.join('\n'), color };
@@ -127,82 +126,64 @@ function buildMinerPath(activeTargets, totalTime, MOVE_PAUSE) {
     return kf;
 }
 
-function buildPickaxeSwing(activeTargets) {
+function buildSwingAndBob(activeTargets, totalTime, MOVE_PAUSE) {
     const hardness    = { 1: 0.4, 2: 0.7, 3: 1.0, 4: 1.5 };
-    const avgHardness = activeTargets.length
-        ? activeTargets.reduce((s, b) => s + hardness[b.level], 0) / activeTargets.length
-        : 1;
-    const avgDur = (SWING_BASE / avgHardness).toFixed(3);
 
-    return `@keyframes pickaxeSwing {
-            0%   { transform: rotate(0deg)   translateY(0px); }
-            40%  { transform: rotate(-70deg) translateY(-1px); }
-            100% { transform: rotate(0deg)   translateY(0px); }
-        }
-        .tool-swing { transform-origin: 8px 14px; animation: pickaxeSwing ${avgDur}s infinite cubic-bezier(0.4,0,0.2,1); }`;
-}
-
-function buildBobbing() {
-    return `@keyframes minerBob {
-            0%, 100% { transform: translateY(0px); }
-            50%       { transform: translateY(-1px); }
-        }
-        .miner-body { animation: minerBob 0.4s infinite ease-in-out; }`;
-}
-
-function buildLanternGlow(activeTargets, totalTime) {
-    if (activeTargets.length === 0) return { glowStyles: '', glowSVG: '' };
-
-    let glowStyles = `@keyframes lanternPulse {
-            0%, 100% { opacity: 0.13; }
-            50%       { opacity: 0.22; }
-        }\n`;
-
-    let glowSVG = '';
+    let swingKf = `@keyframes toolSwing {\n`;
+    let bobKf   = `@keyframes minerBob {\n`;
 
     activeTargets.forEach((block, i) => {
+        const dur        = hardness[block.level];
+        const swingDur   = (SWING_BASE / hardness[block.level]).toFixed(3);
+        const cycles     = Math.max(1, Math.round(dur / parseFloat(swingDur)));
+
         const arriveTime = block.startTime;
         const nextStart  = activeTargets[i + 1] ? activeTargets[i + 1].startTime : totalTime;
-        const departTime = nextStart - 0.15;
+        const departTime = nextStart - MOVE_PAUSE;
 
-        const arrivePct = ((arriveTime / totalTime) * 100).toFixed(2);
-        const departPct = ((departTime / totalTime) * 100).toFixed(2);
+        const arrivePct  = ((arriveTime  / totalTime) * 100).toFixed(2);
+        const departPct  = ((departTime  / totalTime) * 100).toFixed(2);
+        const window     = departTime - arriveTime;
 
-        const cx = block.xPos + 5;
-        const cy = block.yPos + 5;
+        for (let c = 0; c <= cycles; c++) {
+            const t0 = arriveTime + (c / cycles) * window;
+            const t1 = arriveTime + ((c + 0.4) / cycles) * window;
 
-        glowStyles += `
-            .glow-${block.x}-${block.y} {
-                animation: glow-${block.x}-${block.y} ${totalTime}s infinite linear;
-            }
-            @keyframes glow-${block.x}-${block.y} {
-                0%, ${arrivePct}%  { opacity: 0; }
-                ${(parseFloat(arrivePct) + 0.1).toFixed(2)}% { opacity: 1; }
-                ${departPct}%      { opacity: 1; }
-                ${(parseFloat(departPct) + 0.1).toFixed(2)}%, 100% { opacity: 0; }
-            }`;
+            const p0 = ((t0 / totalTime) * 100).toFixed(2);
+            const p1 = (Math.min(t1, departTime) / totalTime * 100).toFixed(2);
 
-        glowSVG += `<ellipse class="glow-${block.x}-${block.y}" cx="${cx}" cy="${cy}" rx="22" ry="18" fill="#f1c40f" opacity="0" style="mix-blend-mode:screen;filter:blur(4px)"/>`;
+            swingKf += `    ${p0}% { transform: rotate(0deg) translateY(0px); }\n`;
+            swingKf += `    ${p1}% { transform: rotate(-70deg) translateY(-1px); }\n`;
+
+            const pb = ((((t0 + t1) / 2) / totalTime) * 100).toFixed(2);
+            bobKf   += `    ${p0}% { transform: translateY(0px); }\n`;
+            bobKf   += `    ${pb}% { transform: translateY(-1px); }\n`;
+        }
+
+        swingKf += `    ${departPct}% { transform: rotate(0deg) translateY(0px); }\n`;
+        bobKf   += `    ${departPct}% { transform: translateY(0px); }\n`;
     });
 
-    return { glowStyles, glowSVG };
+    swingKf += `    100% { transform: rotate(0deg) translateY(0px); }\n}`;
+    bobKf   += `    100% { transform: translateY(0px); }\n}`;
+
+    return `${swingKf}\n${bobKf}
+        .tool-swing { transform-origin: 8px 14px; animation: toolSwing ${totalTime}s infinite linear; }
+        .miner-body { animation: minerBob ${totalTime}s infinite linear; }`;
 }
 
-function renderSVG({ gridSVG, crackSVG, glowSVG, styles, svgWidth, svgHeight, totalTime, activeTargets }) {
+function renderSVG({ gridSVG, crackSVG, styles, svgWidth, svgHeight, totalTime, activeTargets }) {
     const firstTarget = activeTargets[0] || { xPos: 15, yPos: 30 };
 
     return `<svg xmlns="http://www.w3.org/2000/svg" width="${svgWidth}" height="${svgHeight}" viewBox="0 0 ${svgWidth} ${svgHeight}">
     <style>
         ${styles}
-        .miner-engine {
-            animation: minerPath ${totalTime}s infinite linear;
-        }
+        .miner-engine { animation: minerPath ${totalTime}s infinite linear; }
     </style>
 
     <rect width="100%" height="100%" fill="#0d1117" rx="6" />
 
     ${gridSVG}
-    ${glowSVG}
     ${crackSVG}
 
     <g class="miner-engine" transform="translate(${firstTarget.xPos - 4}, ${firstTarget.yPos - 12})">
@@ -237,10 +218,10 @@ function generateSmartMiningSVG(data) {
     const svgHeight = 7 * (boxSize + gap) + paddingTop + 30;
     const colors    = { 0: '#161b22', 1: '#0e4429', 2: '#006d32', 3: '#26a641', 4: '#39d353' };
 
-    let gridSVG      = '';
-    let crackSVG     = '';
-    let styles       = '';
-    let totalTime    = 0;
+    let gridSVG       = '';
+    let crackSVG      = '';
+    let styles        = '';
+    let totalTime     = 0;
     let activeTargets = [];
 
     for (let x = 0; x < cols; x++) {
@@ -274,13 +255,9 @@ function generateSmartMiningSVG(data) {
     });
 
     styles += buildMinerPath(activeTargets, totalTime, MOVE_PAUSE);
-    styles += buildPickaxeSwing(activeTargets);
-    styles += buildBobbing();
+    styles += buildSwingAndBob(activeTargets, totalTime, MOVE_PAUSE);
 
-    const { glowStyles, glowSVG } = buildLanternGlow(activeTargets, totalTime);
-    styles += glowStyles;
-
-    return renderSVG({ gridSVG, crackSVG, glowSVG, styles, svgWidth, svgHeight, totalTime, activeTargets });
+    return renderSVG({ gridSVG, crackSVG, styles, svgWidth, svgHeight, totalTime, activeTargets });
 }
 
 async function main() {
