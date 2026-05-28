@@ -1,0 +1,17 @@
+{
+  "name": "pixel-mining-animator",
+  "version": "1.0.0",
+  "description": "A dynamic SVG generator that turns your GitHub contribution graph into a 2D mining operation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github-profile",
+    "github-activity",
+    "svg-animation",
+    "github-action"
+  ],
+  "author": "",
+  "license": "MIT"
+}
