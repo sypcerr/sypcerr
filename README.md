@@ -25,12 +25,7 @@ My repositories focus on:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=sypcerr&cc=222&tc=fff&ic=fff&bc=0000" alt="Sypcerr's GitHub Stats" height="155" />
-</p>
-
+![](https://raw.githubusercontent.com/sypcerr/sypcerr/main/mining-grid.svg)
 ---
 
 *Motivated, reliable, and ready.*
