@@ -1,4 +1,4 @@
-name: Run Pixel Miner
+name: Run Profile Miner
 
 on:
   schedule:
@@ -12,12 +12,21 @@ jobs:
   mine:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout Code Base
+        uses: actions/checkout@v4
+
+      - name: Initialize Node Environment
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
-      - run: node index.js
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          node-version: 20
+
+      - name: Extract GitHub Contribution Data & Render SVG
+        run: node index.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Asset Back to Repository
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Miner extracted more resources"
+          commit_message: "Miner secured more ores [skip ci]"
           file_pattern: "mining-grid.svg"
