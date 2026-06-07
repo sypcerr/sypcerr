@@ -1,619 +1,619 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="734" height="151" viewBox="0 0 734 151">
     <style>
         
-        .b-0-6 {
-            animation: break-0-6 29.649999999999995s infinite linear;
-            transform-origin: 20px 113px;
+        .b-0-1 {
+            animation: break-0-1 29.349999999999998s infinite linear;
+            transform-origin: 20px 48px;
         }
-        @keyframes break-0-6 {
+        @keyframes break-0-1 {
             0%, 0.00%           { opacity: 1; transform: scale(1); }
-            0.86%             { opacity: 1; transform: scale(1); }
-            2.36%                 { opacity: 0; transform: scale(0.15); }
-            2.36%, 98.65% { opacity: 0; transform: scale(0); }
+            0.00%             { opacity: 1; transform: scale(1); }
+            1.36%                 { opacity: 0; transform: scale(0.15); }
+            1.36%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-0-6 {
-            animation: crack-0-6 29.649999999999995s infinite linear;
+        .crack-0-1 {
+            animation: crack-0-1 29.349999999999998s infinite linear;
         }
-        @keyframes crack-0-6 {
-            0%, 0.86% { opacity: 0; }
-            1.26%      { opacity: 0.85; }
-            2.36%         { opacity: 0; }
+        @keyframes crack-0-1 {
+            0%, 0.00% { opacity: 0; }
+            0.40%      { opacity: 0.85; }
+            1.36%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-1-1 {
-            animation: break-1-1 29.649999999999995s infinite linear;
-            transform-origin: 33px 48px;
+        .b-1-6 {
+            animation: break-1-6 29.349999999999998s infinite linear;
+            transform-origin: 33px 113px;
         }
-        @keyframes break-1-1 {
-            0%, 2.87%           { opacity: 1; transform: scale(1); }
-            2.72%             { opacity: 1; transform: scale(1); }
-            4.22%                 { opacity: 0; transform: scale(0.15); }
-            4.22%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-1-6 {
+            0%, 1.87%           { opacity: 1; transform: scale(1); }
+            1.74%             { opacity: 1; transform: scale(1); }
+            3.24%                 { opacity: 0; transform: scale(0.15); }
+            3.24%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-1-1 {
-            animation: crack-1-1 29.649999999999995s infinite linear;
+        .crack-1-6 {
+            animation: crack-1-6 29.349999999999998s infinite linear;
         }
-        @keyframes crack-1-1 {
-            0%, 2.72% { opacity: 0; }
-            3.12%      { opacity: 0.85; }
-            4.22%         { opacity: 0; }
+        @keyframes crack-1-6 {
+            0%, 1.74% { opacity: 0; }
+            2.14%      { opacity: 0.85; }
+            3.24%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-2-3 {
-            animation: break-2-3 29.649999999999995s infinite linear;
-            transform-origin: 46px 74px;
+        .b-1-4 {
+            animation: break-1-4 29.349999999999998s infinite linear;
+            transform-origin: 33px 87px;
         }
-        @keyframes break-2-3 {
-            0%, 4.72%           { opacity: 1; transform: scale(1); }
-            4.57%             { opacity: 1; transform: scale(1); }
-            6.07%                 { opacity: 0; transform: scale(0.15); }
-            6.07%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-1-4 {
+            0%, 3.75%           { opacity: 1; transform: scale(1); }
+            3.61%             { opacity: 1; transform: scale(1); }
+            5.11%                 { opacity: 0; transform: scale(0.15); }
+            5.11%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-2-3 {
-            animation: crack-2-3 29.649999999999995s infinite linear;
+        .crack-1-4 {
+            animation: crack-1-4 29.349999999999998s infinite linear;
         }
-        @keyframes crack-2-3 {
-            0%, 4.57% { opacity: 0; }
-            4.97%      { opacity: 0.85; }
-            6.07%         { opacity: 0; }
+        @keyframes crack-1-4 {
+            0%, 3.61% { opacity: 0; }
+            4.01%      { opacity: 0.85; }
+            5.11%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-2-4 {
-            animation: break-2-4 29.649999999999995s infinite linear;
-            transform-origin: 46px 87px;
+        .b-1-3 {
+            animation: break-1-3 29.349999999999998s infinite linear;
+            transform-origin: 33px 74px;
         }
-        @keyframes break-2-4 {
-            0%, 6.58%           { opacity: 1; transform: scale(1); }
-            6.43%             { opacity: 1; transform: scale(1); }
-            7.93%                 { opacity: 0; transform: scale(0.15); }
-            7.93%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-1-3 {
+            0%, 5.62%           { opacity: 1; transform: scale(1); }
+            5.48%             { opacity: 1; transform: scale(1); }
+            6.98%                 { opacity: 0; transform: scale(0.15); }
+            6.98%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-2-4 {
-            animation: crack-2-4 29.649999999999995s infinite linear;
+        .crack-1-3 {
+            animation: crack-1-3 29.349999999999998s infinite linear;
         }
-        @keyframes crack-2-4 {
-            0%, 6.43% { opacity: 0; }
-            6.83%      { opacity: 0.85; }
-            7.93%         { opacity: 0; }
+        @keyframes crack-1-3 {
+            0%, 5.48% { opacity: 0; }
+            5.88%      { opacity: 0.85; }
+            6.98%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-2-6 {
-            animation: break-2-6 29.649999999999995s infinite linear;
-            transform-origin: 46px 113px;
+        .b-2-0 {
+            animation: break-2-0 29.349999999999998s infinite linear;
+            transform-origin: 46px 35px;
         }
-        @keyframes break-2-6 {
-            0%, 8.43%           { opacity: 1; transform: scale(1); }
-            8.28%             { opacity: 1; transform: scale(1); }
-            9.78%                 { opacity: 0; transform: scale(0.15); }
-            9.78%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-2-0 {
+            0%, 7.50%           { opacity: 1; transform: scale(1); }
+            8.38%             { opacity: 1; transform: scale(1); }
+            9.88%                 { opacity: 0; transform: scale(0.15); }
+            9.88%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-2-6 {
-            animation: crack-2-6 29.649999999999995s infinite linear;
+        .crack-2-0 {
+            animation: crack-2-0 29.349999999999998s infinite linear;
         }
-        @keyframes crack-2-6 {
-            0%, 8.28% { opacity: 0; }
-            8.68%      { opacity: 0.85; }
-            9.78%         { opacity: 0; }
+        @keyframes crack-2-0 {
+            0%, 8.38% { opacity: 0; }
+            8.78%      { opacity: 0.85; }
+            9.88%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-3-2 {
-            animation: break-3-2 29.649999999999995s infinite linear;
-            transform-origin: 59px 61px;
+        .b-2-2 {
+            animation: break-2-2 29.349999999999998s infinite linear;
+            transform-origin: 46px 61px;
         }
-        @keyframes break-3-2 {
-            0%, 10.29%           { opacity: 1; transform: scale(1); }
-            10.14%             { opacity: 1; transform: scale(1); }
-            11.64%                 { opacity: 0; transform: scale(0.15); }
-            11.64%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-2-2 {
+            0%, 10.39%           { opacity: 1; transform: scale(1); }
+            10.25%             { opacity: 1; transform: scale(1); }
+            11.75%                 { opacity: 0; transform: scale(0.15); }
+            11.75%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-3-2 {
-            animation: crack-3-2 29.649999999999995s infinite linear;
+        .crack-2-2 {
+            animation: crack-2-2 29.349999999999998s infinite linear;
         }
-        @keyframes crack-3-2 {
-            0%, 10.14% { opacity: 0; }
-            10.54%      { opacity: 0.85; }
-            11.64%         { opacity: 0; }
+        @keyframes crack-2-2 {
+            0%, 10.25% { opacity: 0; }
+            10.65%      { opacity: 0.85; }
+            11.75%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-3-0 {
-            animation: break-3-0 29.649999999999995s infinite linear;
-            transform-origin: 59px 35px;
+        .b-4-2 {
+            animation: break-4-2 29.349999999999998s infinite linear;
+            transform-origin: 72px 61px;
         }
-        @keyframes break-3-0 {
-            0%, 12.14%           { opacity: 1; transform: scale(1); }
-            13.00%             { opacity: 1; transform: scale(1); }
-            14.50%                 { opacity: 0; transform: scale(0.15); }
-            14.50%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-4-2 {
+            0%, 12.27%           { opacity: 1; transform: scale(1); }
+            12.13%             { opacity: 1; transform: scale(1); }
+            13.63%                 { opacity: 0; transform: scale(0.15); }
+            13.63%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-3-0 {
-            animation: crack-3-0 29.649999999999995s infinite linear;
+        .crack-4-2 {
+            animation: crack-4-2 29.349999999999998s infinite linear;
         }
-        @keyframes crack-3-0 {
-            0%, 13.00% { opacity: 0; }
-            13.40%      { opacity: 0.85; }
-            14.50%         { opacity: 0; }
+        @keyframes crack-4-2 {
+            0%, 12.13% { opacity: 0; }
+            12.53%      { opacity: 0.85; }
+            13.63%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-5-2 {
-            animation: break-5-2 29.649999999999995s infinite linear;
-            transform-origin: 85px 61px;
+        .b-5-6 {
+            animation: break-5-6 29.349999999999998s infinite linear;
+            transform-origin: 85px 113px;
         }
-        @keyframes break-5-2 {
-            0%, 15.01%           { opacity: 1; transform: scale(1); }
-            14.86%             { opacity: 1; transform: scale(1); }
-            16.36%                 { opacity: 0; transform: scale(0.15); }
-            16.36%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-5-6 {
+            0%, 14.14%           { opacity: 1; transform: scale(1); }
+            17.75%             { opacity: 1; transform: scale(1); }
+            19.25%                 { opacity: 0; transform: scale(0.15); }
+            19.25%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-5-2 {
-            animation: crack-5-2 29.649999999999995s infinite linear;
+        .crack-5-6 {
+            animation: crack-5-6 29.349999999999998s infinite linear;
         }
-        @keyframes crack-5-2 {
-            0%, 14.86% { opacity: 0; }
-            15.26%      { opacity: 0.85; }
-            16.36%         { opacity: 0; }
+        @keyframes crack-5-6 {
+            0%, 17.75% { opacity: 0; }
+            18.15%      { opacity: 0.85; }
+            19.25%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-6-3 {
-            animation: break-6-3 29.649999999999995s infinite linear;
-            transform-origin: 98px 74px;
+        .b-5-3 {
+            animation: break-5-3 29.349999999999998s infinite linear;
+            transform-origin: 85px 74px;
         }
-        @keyframes break-6-3 {
-            0%, 16.86%           { opacity: 1; transform: scale(1); }
-            17.72%             { opacity: 1; transform: scale(1); }
-            19.22%                 { opacity: 0; transform: scale(0.15); }
-            19.22%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-5-3 {
+            0%, 19.76%           { opacity: 1; transform: scale(1); }
+            20.65%             { opacity: 1; transform: scale(1); }
+            22.15%                 { opacity: 0; transform: scale(0.15); }
+            22.15%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-6-3 {
-            animation: crack-6-3 29.649999999999995s infinite linear;
+        .crack-5-3 {
+            animation: crack-5-3 29.349999999999998s infinite linear;
         }
-        @keyframes crack-6-3 {
-            0%, 17.72% { opacity: 0; }
-            18.12%      { opacity: 0.85; }
-            19.22%         { opacity: 0; }
+        @keyframes crack-5-3 {
+            0%, 20.65% { opacity: 0; }
+            21.05%      { opacity: 0.85; }
+            22.15%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-6-6 {
-            animation: break-6-6 29.649999999999995s infinite linear;
-            transform-origin: 98px 113px;
+        .b-7-1 {
+            animation: break-7-1 29.349999999999998s infinite linear;
+            transform-origin: 111px 48px;
         }
-        @keyframes break-6-6 {
-            0%, 19.73%           { opacity: 1; transform: scale(1); }
-            23.29%             { opacity: 1; transform: scale(1); }
-            24.79%                 { opacity: 0; transform: scale(0.15); }
-            24.79%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-7-1 {
+            0%, 22.66%           { opacity: 1; transform: scale(1); }
+            23.54%             { opacity: 1; transform: scale(1); }
+            25.04%                 { opacity: 0; transform: scale(0.15); }
+            25.04%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-6-6 {
-            animation: crack-6-6 29.649999999999995s infinite linear;
+        .crack-7-1 {
+            animation: crack-7-1 29.349999999999998s infinite linear;
         }
-        @keyframes crack-6-6 {
-            0%, 23.29% { opacity: 0; }
-            23.69%      { opacity: 0.85; }
-            24.79%         { opacity: 0; }
+        @keyframes crack-7-1 {
+            0%, 23.54% { opacity: 0; }
+            23.94%      { opacity: 0.85; }
+            25.04%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-8-0 {
-            animation: break-8-0 29.649999999999995s infinite linear;
-            transform-origin: 124px 35px;
+        .b-7-0 {
+            animation: break-7-0 29.349999999999998s infinite linear;
+            transform-origin: 111px 35px;
         }
-        @keyframes break-8-0 {
-            0%, 25.30%           { opacity: 1; transform: scale(1); }
-            25.14%             { opacity: 1; transform: scale(1); }
-            26.64%                 { opacity: 0; transform: scale(0.15); }
-            26.64%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-7-0 {
+            0%, 25.55%           { opacity: 1; transform: scale(1); }
+            25.42%             { opacity: 1; transform: scale(1); }
+            26.92%                 { opacity: 0; transform: scale(0.15); }
+            26.92%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-8-0 {
-            animation: crack-8-0 29.649999999999995s infinite linear;
+        .crack-7-0 {
+            animation: crack-7-0 29.349999999999998s infinite linear;
         }
-        @keyframes crack-8-0 {
-            0%, 25.14% { opacity: 0; }
-            25.54%      { opacity: 0.85; }
-            26.64%         { opacity: 0; }
+        @keyframes crack-7-0 {
+            0%, 25.42% { opacity: 0; }
+            25.82%      { opacity: 0.85; }
+            26.92%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-8-1 {
-            animation: break-8-1 29.649999999999995s infinite linear;
-            transform-origin: 124px 48px;
+        .b-9-6 {
+            animation: break-9-6 29.349999999999998s infinite linear;
+            transform-origin: 137px 113px;
         }
-        @keyframes break-8-1 {
-            0%, 27.15%           { opacity: 1; transform: scale(1); }
-            28.01%             { opacity: 1; transform: scale(1); }
-            29.51%                 { opacity: 0; transform: scale(0.15); }
-            29.51%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-9-6 {
+            0%, 27.43%           { opacity: 1; transform: scale(1); }
+            31.04%             { opacity: 1; transform: scale(1); }
+            32.54%                 { opacity: 0; transform: scale(0.15); }
+            32.54%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-8-1 {
-            animation: crack-8-1 29.649999999999995s infinite linear;
+        .crack-9-6 {
+            animation: crack-9-6 29.349999999999998s infinite linear;
         }
-        @keyframes crack-8-1 {
-            0%, 28.01% { opacity: 0; }
-            28.41%      { opacity: 0.85; }
-            29.51%         { opacity: 0; }
+        @keyframes crack-9-6 {
+            0%, 31.04% { opacity: 0; }
+            31.44%      { opacity: 0.85; }
+            32.54%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-10-6 {
-            animation: break-10-6 29.649999999999995s infinite linear;
-            transform-origin: 150px 113px;
+        .b-10-0 {
+            animation: break-10-0 29.349999999999998s infinite linear;
+            transform-origin: 150px 35px;
         }
-        @keyframes break-10-6 {
-            0%, 30.02%           { opacity: 1; transform: scale(1); }
-            33.58%             { opacity: 1; transform: scale(1); }
-            35.08%                 { opacity: 0; transform: scale(0.15); }
-            35.08%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-10-0 {
+            0%, 33.05%           { opacity: 1; transform: scale(1); }
+            32.91%             { opacity: 1; transform: scale(1); }
+            34.41%                 { opacity: 0; transform: scale(0.15); }
+            34.41%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-10-6 {
-            animation: crack-10-6 29.649999999999995s infinite linear;
+        .crack-10-0 {
+            animation: crack-10-0 29.349999999999998s infinite linear;
         }
-        @keyframes crack-10-6 {
-            0%, 33.58% { opacity: 0; }
-            33.98%      { opacity: 0.85; }
-            35.08%         { opacity: 0; }
+        @keyframes crack-10-0 {
+            0%, 32.91% { opacity: 0; }
+            33.31%      { opacity: 0.85; }
+            34.41%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-11-5 {
-            animation: break-11-5 29.649999999999995s infinite linear;
-            transform-origin: 163px 100px;
+        .b-10-5 {
+            animation: break-10-5 29.349999999999998s infinite linear;
+            transform-origin: 150px 100px;
         }
-        @keyframes break-11-5 {
-            0%, 35.58%           { opacity: 1; transform: scale(1); }
-            36.44%             { opacity: 1; transform: scale(1); }
-            37.94%                 { opacity: 0; transform: scale(0.15); }
-            37.94%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-10-5 {
+            0%, 34.92%           { opacity: 1; transform: scale(1); }
+            35.81%             { opacity: 1; transform: scale(1); }
+            37.31%                 { opacity: 0; transform: scale(0.15); }
+            37.31%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-11-5 {
-            animation: crack-11-5 29.649999999999995s infinite linear;
+        .crack-10-5 {
+            animation: crack-10-5 29.349999999999998s infinite linear;
         }
-        @keyframes crack-11-5 {
-            0%, 36.44% { opacity: 0; }
-            36.84%      { opacity: 0.85; }
-            37.94%         { opacity: 0; }
+        @keyframes crack-10-5 {
+            0%, 35.81% { opacity: 0; }
+            36.21%      { opacity: 0.85; }
+            37.31%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-11-0 {
-            animation: break-11-0 29.649999999999995s infinite linear;
-            transform-origin: 163px 35px;
+        .b-24-0 {
+            animation: break-24-0 29.349999999999998s infinite linear;
+            transform-origin: 332px 35px;
         }
-        @keyframes break-11-0 {
-            0%, 38.45%           { opacity: 1; transform: scale(1); }
-            38.30%             { opacity: 1; transform: scale(1); }
-            39.80%                 { opacity: 0; transform: scale(0.15); }
-            39.80%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-24-0 {
+            0%, 37.82%           { opacity: 1; transform: scale(1); }
+            37.68%             { opacity: 1; transform: scale(1); }
+            39.18%                 { opacity: 0; transform: scale(0.15); }
+            39.18%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-11-0 {
-            animation: crack-11-0 29.649999999999995s infinite linear;
+        .crack-24-0 {
+            animation: crack-24-0 29.349999999999998s infinite linear;
         }
-        @keyframes crack-11-0 {
-            0%, 38.30% { opacity: 0; }
-            38.70%      { opacity: 0.85; }
-            39.80%         { opacity: 0; }
+        @keyframes crack-24-0 {
+            0%, 37.68% { opacity: 0; }
+            38.08%      { opacity: 0.85; }
+            39.18%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-25-2 {
-            animation: break-25-2 29.649999999999995s infinite linear;
-            transform-origin: 345px 61px;
+        .b-24-2 {
+            animation: break-24-2 29.349999999999998s infinite linear;
+            transform-origin: 332px 61px;
         }
-        @keyframes break-25-2 {
-            0%, 40.30%           { opacity: 1; transform: scale(1); }
-            40.15%             { opacity: 1; transform: scale(1); }
-            41.65%                 { opacity: 0; transform: scale(0.15); }
-            41.65%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-24-2 {
+            0%, 39.69%           { opacity: 1; transform: scale(1); }
+            39.56%             { opacity: 1; transform: scale(1); }
+            41.06%                 { opacity: 0; transform: scale(0.15); }
+            41.06%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-25-2 {
-            animation: crack-25-2 29.649999999999995s infinite linear;
+        .crack-24-2 {
+            animation: crack-24-2 29.349999999999998s infinite linear;
         }
-        @keyframes crack-25-2 {
-            0%, 40.15% { opacity: 0; }
-            40.55%      { opacity: 0.85; }
-            41.65%         { opacity: 0; }
+        @keyframes crack-24-2 {
+            0%, 39.56% { opacity: 0; }
+            39.96%      { opacity: 0.85; }
+            41.06%         { opacity: 0; }
+            100%               { opacity: 0; }
+        }
+        .b-25-5 {
+            animation: break-25-5 29.349999999999998s infinite linear;
+            transform-origin: 345px 100px;
+        }
+        @keyframes break-25-5 {
+            0%, 41.57%           { opacity: 1; transform: scale(1); }
+            45.18%             { opacity: 1; transform: scale(1); }
+            46.68%                 { opacity: 0; transform: scale(0.15); }
+            46.68%, 98.64% { opacity: 0; transform: scale(0); }
+            100%                       { opacity: 1; transform: scale(1); }
+        }
+        .crack-25-5 {
+            animation: crack-25-5 29.349999999999998s infinite linear;
+        }
+        @keyframes crack-25-5 {
+            0%, 45.18% { opacity: 0; }
+            45.58%      { opacity: 0.85; }
+            46.68%         { opacity: 0; }
             100%               { opacity: 0; }
         }
         .b-25-0 {
-            animation: break-25-0 29.649999999999995s infinite linear;
+            animation: break-25-0 29.349999999999998s infinite linear;
             transform-origin: 345px 35px;
         }
         @keyframes break-25-0 {
-            0%, 42.16%           { opacity: 1; transform: scale(1); }
-            42.01%             { opacity: 1; transform: scale(1); }
-            43.51%                 { opacity: 0; transform: scale(0.15); }
-            43.51%, 98.65% { opacity: 0; transform: scale(0); }
+            0%, 47.19%           { opacity: 1; transform: scale(1); }
+            50.80%             { opacity: 1; transform: scale(1); }
+            52.30%                 { opacity: 0; transform: scale(0.15); }
+            52.30%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
         .crack-25-0 {
-            animation: crack-25-0 29.649999999999995s infinite linear;
+            animation: crack-25-0 29.349999999999998s infinite linear;
         }
         @keyframes crack-25-0 {
-            0%, 42.01% { opacity: 0; }
-            42.41%      { opacity: 0.85; }
-            43.51%         { opacity: 0; }
+            0%, 50.80% { opacity: 0; }
+            51.20%      { opacity: 0.85; }
+            52.30%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-26-0 {
-            animation: break-26-0 29.649999999999995s infinite linear;
-            transform-origin: 358px 35px;
+        .b-27-3 {
+            animation: break-27-3 29.349999999999998s infinite linear;
+            transform-origin: 371px 74px;
         }
-        @keyframes break-26-0 {
-            0%, 44.01%           { opacity: 1; transform: scale(1); }
-            47.57%             { opacity: 1; transform: scale(1); }
-            49.07%                 { opacity: 0; transform: scale(0.15); }
-            49.07%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-27-3 {
+            0%, 52.81%           { opacity: 1; transform: scale(1); }
+            52.67%             { opacity: 1; transform: scale(1); }
+            54.17%                 { opacity: 0; transform: scale(0.15); }
+            54.17%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-26-0 {
-            animation: crack-26-0 29.649999999999995s infinite linear;
+        .crack-27-3 {
+            animation: crack-27-3 29.349999999999998s infinite linear;
         }
-        @keyframes crack-26-0 {
-            0%, 47.57% { opacity: 0; }
-            47.97%      { opacity: 0.85; }
-            49.07%         { opacity: 0; }
+        @keyframes crack-27-3 {
+            0%, 52.67% { opacity: 0; }
+            53.07%      { opacity: 0.85; }
+            54.17%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-26-5 {
-            animation: break-26-5 29.649999999999995s infinite linear;
-            transform-origin: 358px 100px;
+        .b-30-2 {
+            animation: break-30-2 29.349999999999998s infinite linear;
+            transform-origin: 410px 61px;
         }
-        @keyframes break-26-5 {
-            0%, 49.58%           { opacity: 1; transform: scale(1); }
-            53.14%             { opacity: 1; transform: scale(1); }
-            54.64%                 { opacity: 0; transform: scale(0.15); }
-            54.64%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-30-2 {
+            0%, 54.68%           { opacity: 1; transform: scale(1); }
+            58.30%             { opacity: 1; transform: scale(1); }
+            59.80%                 { opacity: 0; transform: scale(0.15); }
+            59.80%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-26-5 {
-            animation: crack-26-5 29.649999999999995s infinite linear;
+        .crack-30-2 {
+            animation: crack-30-2 29.349999999999998s infinite linear;
         }
-        @keyframes crack-26-5 {
-            0%, 53.14% { opacity: 0; }
-            53.54%      { opacity: 0.85; }
-            54.64%         { opacity: 0; }
+        @keyframes crack-30-2 {
+            0%, 58.30% { opacity: 0; }
+            58.70%      { opacity: 0.85; }
+            59.80%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-28-3 {
-            animation: break-28-3 29.649999999999995s infinite linear;
-            transform-origin: 384px 74px;
+        .b-30-3 {
+            animation: break-30-3 29.349999999999998s infinite linear;
+            transform-origin: 410px 74px;
         }
-        @keyframes break-28-3 {
-            0%, 55.14%           { opacity: 1; transform: scale(1); }
-            54.99%             { opacity: 1; transform: scale(1); }
-            56.49%                 { opacity: 0; transform: scale(0.15); }
-            56.49%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-30-3 {
+            0%, 60.31%           { opacity: 1; transform: scale(1); }
+            63.92%             { opacity: 1; transform: scale(1); }
+            65.42%                 { opacity: 0; transform: scale(0.15); }
+            65.42%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-28-3 {
-            animation: crack-28-3 29.649999999999995s infinite linear;
+        .crack-30-3 {
+            animation: crack-30-3 29.349999999999998s infinite linear;
         }
-        @keyframes crack-28-3 {
-            0%, 54.99% { opacity: 0; }
-            55.39%      { opacity: 0.85; }
-            56.49%         { opacity: 0; }
+        @keyframes crack-30-3 {
+            0%, 63.92% { opacity: 0; }
+            64.32%      { opacity: 0.85; }
+            65.42%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-31-3 {
-            animation: break-31-3 29.649999999999995s infinite linear;
-            transform-origin: 423px 74px;
+        .b-34-1 {
+            animation: break-34-1 29.349999999999998s infinite linear;
+            transform-origin: 462px 48px;
         }
-        @keyframes break-31-3 {
-            0%, 57.00%           { opacity: 1; transform: scale(1); }
-            60.56%             { opacity: 1; transform: scale(1); }
-            62.06%                 { opacity: 0; transform: scale(0.15); }
-            62.06%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-34-1 {
+            0%, 65.93%           { opacity: 1; transform: scale(1); }
+            67.84%             { opacity: 1; transform: scale(1); }
+            69.34%                 { opacity: 0; transform: scale(0.15); }
+            69.34%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-31-3 {
-            animation: crack-31-3 29.649999999999995s infinite linear;
+        .crack-34-1 {
+            animation: crack-34-1 29.349999999999998s infinite linear;
         }
-        @keyframes crack-31-3 {
-            0%, 60.56% { opacity: 0; }
-            60.96%      { opacity: 0.85; }
-            62.06%         { opacity: 0; }
+        @keyframes crack-34-1 {
+            0%, 67.84% { opacity: 0; }
+            68.24%      { opacity: 0.85; }
+            69.34%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-31-2 {
-            animation: break-31-2 29.649999999999995s infinite linear;
-            transform-origin: 423px 61px;
+        .b-37-3 {
+            animation: break-37-3 29.349999999999998s infinite linear;
+            transform-origin: 501px 74px;
         }
-        @keyframes break-31-2 {
-            0%, 62.56%           { opacity: 1; transform: scale(1); }
-            66.12%             { opacity: 1; transform: scale(1); }
-            67.62%                 { opacity: 0; transform: scale(0.15); }
-            67.62%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-37-3 {
+            0%, 69.85%           { opacity: 1; transform: scale(1); }
+            69.71%             { opacity: 1; transform: scale(1); }
+            71.21%                 { opacity: 0; transform: scale(0.15); }
+            71.21%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-31-2 {
-            animation: crack-31-2 29.649999999999995s infinite linear;
+        .crack-37-3 {
+            animation: crack-37-3 29.349999999999998s infinite linear;
         }
-        @keyframes crack-31-2 {
-            0%, 66.12% { opacity: 0; }
-            66.52%      { opacity: 0.85; }
-            67.62%         { opacity: 0; }
-            100%               { opacity: 0; }
-        }
-        .b-35-1 {
-            animation: break-35-1 29.649999999999995s infinite linear;
-            transform-origin: 475px 48px;
-        }
-        @keyframes break-35-1 {
-            0%, 68.13%           { opacity: 1; transform: scale(1); }
-            70.00%             { opacity: 1; transform: scale(1); }
-            71.50%                 { opacity: 0; transform: scale(0.15); }
-            71.50%, 98.65% { opacity: 0; transform: scale(0); }
-            100%                       { opacity: 1; transform: scale(1); }
-        }
-        .crack-35-1 {
-            animation: crack-35-1 29.649999999999995s infinite linear;
-        }
-        @keyframes crack-35-1 {
-            0%, 70.00% { opacity: 0; }
-            70.40%      { opacity: 0.85; }
-            71.50%         { opacity: 0; }
+        @keyframes crack-37-3 {
+            0%, 69.71% { opacity: 0; }
+            70.11%      { opacity: 0.85; }
+            71.21%         { opacity: 0; }
             100%               { opacity: 0; }
         }
         .b-38-3 {
-            animation: break-38-3 29.649999999999995s infinite linear;
+            animation: break-38-3 29.349999999999998s infinite linear;
             transform-origin: 514px 74px;
         }
         @keyframes break-38-3 {
-            0%, 72.01%           { opacity: 1; transform: scale(1); }
-            71.86%             { opacity: 1; transform: scale(1); }
-            73.36%                 { opacity: 0; transform: scale(0.15); }
-            73.36%, 98.65% { opacity: 0; transform: scale(0); }
+            0%, 71.72%           { opacity: 1; transform: scale(1); }
+            71.58%             { opacity: 1; transform: scale(1); }
+            73.08%                 { opacity: 0; transform: scale(0.15); }
+            73.08%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
         .crack-38-3 {
-            animation: crack-38-3 29.649999999999995s infinite linear;
+            animation: crack-38-3 29.349999999999998s infinite linear;
         }
         @keyframes crack-38-3 {
-            0%, 71.86% { opacity: 0; }
-            72.26%      { opacity: 0.85; }
-            73.36%         { opacity: 0; }
+            0%, 71.58% { opacity: 0; }
+            71.98%      { opacity: 0.85; }
+            73.08%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-39-5 {
-            animation: break-39-5 29.649999999999995s infinite linear;
-            transform-origin: 527px 100px;
+        .b-38-5 {
+            animation: break-38-5 29.349999999999998s infinite linear;
+            transform-origin: 514px 100px;
         }
-        @keyframes break-39-5 {
-            0%, 73.86%           { opacity: 1; transform: scale(1); }
-            73.71%             { opacity: 1; transform: scale(1); }
-            75.21%                 { opacity: 0; transform: scale(0.15); }
-            75.21%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-38-5 {
+            0%, 73.59%           { opacity: 1; transform: scale(1); }
+            73.46%             { opacity: 1; transform: scale(1); }
+            74.96%                 { opacity: 0; transform: scale(0.15); }
+            74.96%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-39-5 {
-            animation: crack-39-5 29.649999999999995s infinite linear;
+        .crack-38-5 {
+            animation: crack-38-5 29.349999999999998s infinite linear;
         }
-        @keyframes crack-39-5 {
-            0%, 73.71% { opacity: 0; }
-            74.11%      { opacity: 0.85; }
-            75.21%         { opacity: 0; }
+        @keyframes crack-38-5 {
+            0%, 73.46% { opacity: 0; }
+            73.86%      { opacity: 0.85; }
+            74.96%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-39-3 {
-            animation: break-39-3 29.649999999999995s infinite linear;
-            transform-origin: 527px 74px;
+        .b-41-0 {
+            animation: break-41-0 29.349999999999998s infinite linear;
+            transform-origin: 553px 35px;
         }
-        @keyframes break-39-3 {
-            0%, 75.72%           { opacity: 1; transform: scale(1); }
-            75.57%             { opacity: 1; transform: scale(1); }
-            77.07%                 { opacity: 0; transform: scale(0.15); }
-            77.07%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-41-0 {
+            0%, 75.47%           { opacity: 1; transform: scale(1); }
+            77.38%             { opacity: 1; transform: scale(1); }
+            78.88%                 { opacity: 0; transform: scale(0.15); }
+            78.88%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-39-3 {
-            animation: crack-39-3 29.649999999999995s infinite linear;
+        .crack-41-0 {
+            animation: crack-41-0 29.349999999999998s infinite linear;
         }
-        @keyframes crack-39-3 {
-            0%, 75.57% { opacity: 0; }
-            75.97%      { opacity: 0.85; }
-            77.07%         { opacity: 0; }
+        @keyframes crack-41-0 {
+            0%, 77.38% { opacity: 0; }
+            77.78%      { opacity: 0.85; }
+            78.88%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-42-0 {
-            animation: break-42-0 29.649999999999995s infinite linear;
-            transform-origin: 566px 35px;
+        .b-42-5 {
+            animation: break-42-5 29.349999999999998s infinite linear;
+            transform-origin: 566px 100px;
         }
-        @keyframes break-42-0 {
-            0%, 77.57%           { opacity: 1; transform: scale(1); }
-            79.44%             { opacity: 1; transform: scale(1); }
-            80.94%                 { opacity: 0; transform: scale(0.15); }
-            80.94%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-42-5 {
+            0%, 79.39%           { opacity: 1; transform: scale(1); }
+            83.00%             { opacity: 1; transform: scale(1); }
+            84.50%                 { opacity: 0; transform: scale(0.15); }
+            84.50%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-42-0 {
-            animation: crack-42-0 29.649999999999995s infinite linear;
+        .crack-42-5 {
+            animation: crack-42-5 29.349999999999998s infinite linear;
         }
-        @keyframes crack-42-0 {
-            0%, 79.44% { opacity: 0; }
-            79.84%      { opacity: 0.85; }
-            80.94%         { opacity: 0; }
+        @keyframes crack-42-5 {
+            0%, 83.00% { opacity: 0; }
+            83.40%      { opacity: 0.85; }
+            84.50%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-43-5 {
-            animation: break-43-5 29.649999999999995s infinite linear;
-            transform-origin: 579px 100px;
+        .b-50-4 {
+            animation: break-50-4 29.349999999999998s infinite linear;
+            transform-origin: 670px 87px;
         }
-        @keyframes break-43-5 {
-            0%, 81.45%           { opacity: 1; transform: scale(1); }
-            85.01%             { opacity: 1; transform: scale(1); }
-            86.51%                 { opacity: 0; transform: scale(0.15); }
-            86.51%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-50-4 {
+            0%, 85.01%           { opacity: 1; transform: scale(1); }
+            88.62%             { opacity: 1; transform: scale(1); }
+            90.12%                 { opacity: 0; transform: scale(0.15); }
+            90.12%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-43-5 {
-            animation: crack-43-5 29.649999999999995s infinite linear;
+        .crack-50-4 {
+            animation: crack-50-4 29.349999999999998s infinite linear;
         }
-        @keyframes crack-43-5 {
-            0%, 85.01% { opacity: 0; }
-            85.41%      { opacity: 0.85; }
-            86.51%         { opacity: 0; }
+        @keyframes crack-50-4 {
+            0%, 88.62% { opacity: 0; }
+            89.02%      { opacity: 0.85; }
+            90.12%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-51-6 {
-            animation: break-51-6 29.649999999999995s infinite linear;
-            transform-origin: 683px 113px;
+        .b-50-6 {
+            animation: break-50-6 29.349999999999998s infinite linear;
+            transform-origin: 670px 113px;
         }
-        @keyframes break-51-6 {
-            0%, 87.02%           { opacity: 1; transform: scale(1); }
-            90.57%             { opacity: 1; transform: scale(1); }
-            92.07%                 { opacity: 0; transform: scale(0.15); }
-            92.07%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-50-6 {
+            0%, 90.63%           { opacity: 1; transform: scale(1); }
+            94.24%             { opacity: 1; transform: scale(1); }
+            95.74%                 { opacity: 0; transform: scale(0.15); }
+            95.74%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-51-6 {
-            animation: crack-51-6 29.649999999999995s infinite linear;
+        .crack-50-6 {
+            animation: crack-50-6 29.349999999999998s infinite linear;
         }
-        @keyframes crack-51-6 {
-            0%, 90.57% { opacity: 0; }
-            90.97%      { opacity: 0.85; }
-            92.07%         { opacity: 0; }
+        @keyframes crack-50-6 {
+            0%, 94.24% { opacity: 0; }
+            94.64%      { opacity: 0.85; }
+            95.74%         { opacity: 0; }
             100%               { opacity: 0; }
         }
-        .b-51-4 {
-            animation: break-51-4 29.649999999999995s infinite linear;
-            transform-origin: 683px 87px;
+        .b-51-0 {
+            animation: break-51-0 29.349999999999998s infinite linear;
+            transform-origin: 683px 35px;
         }
-        @keyframes break-51-4 {
-            0%, 92.58%           { opacity: 1; transform: scale(1); }
-            96.14%             { opacity: 1; transform: scale(1); }
-            97.64%                 { opacity: 0; transform: scale(0.15); }
-            97.64%, 98.65% { opacity: 0; transform: scale(0); }
+        @keyframes break-51-0 {
+            0%, 96.25%           { opacity: 1; transform: scale(1); }
+            96.11%             { opacity: 1; transform: scale(1); }
+            97.61%                 { opacity: 0; transform: scale(0.15); }
+            97.61%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
-        .crack-51-4 {
-            animation: crack-51-4 29.649999999999995s infinite linear;
+        .crack-51-0 {
+            animation: crack-51-0 29.349999999999998s infinite linear;
         }
-        @keyframes crack-51-4 {
-            0%, 96.14% { opacity: 0; }
-            96.54%      { opacity: 0.85; }
-            97.64%         { opacity: 0; }
+        @keyframes crack-51-0 {
+            0%, 96.11% { opacity: 0; }
+            96.51%      { opacity: 0.85; }
+            97.61%         { opacity: 0; }
             100%               { opacity: 0; }
         }
         .b-52-0 {
-            animation: break-52-0 29.649999999999995s infinite linear;
+            animation: break-52-0 29.349999999999998s infinite linear;
             transform-origin: 696px 35px;
         }
         @keyframes break-52-0 {
-            0%, 98.15%           { opacity: 1; transform: scale(1); }
+            0%, 98.13%           { opacity: 1; transform: scale(1); }
             97.99%             { opacity: 1; transform: scale(1); }
             99.49%                 { opacity: 0; transform: scale(0.15); }
-            99.49%, 98.65% { opacity: 0; transform: scale(0); }
+            99.49%, 98.64% { opacity: 0; transform: scale(0); }
             100%                       { opacity: 1; transform: scale(1); }
         }
         .crack-52-0 {
-            animation: crack-52-0 29.649999999999995s infinite linear;
+            animation: crack-52-0 29.349999999999998s infinite linear;
         }
         @keyframes crack-52-0 {
             0%, 97.99% { opacity: 0; }
@@ -621,298 +621,298 @@
             99.49%         { opacity: 0; }
             100%               { opacity: 0; }
         }@keyframes minerPath {
-    0.00% { transform: translate(11px, 96px); }
-    2.36% { transform: translate(11px, 96px); }
-    2.87% { transform: translate(24px, 31px); }
-    4.22% { transform: translate(24px, 31px); }
-    4.72% { transform: translate(37px, 57px); }
-    6.07% { transform: translate(37px, 57px); }
-    6.58% { transform: translate(37px, 70px); }
-    7.93% { transform: translate(37px, 70px); }
-    8.43% { transform: translate(37px, 96px); }
-    9.78% { transform: translate(37px, 96px); }
-    10.29% { transform: translate(50px, 44px); }
-    11.64% { transform: translate(50px, 44px); }
-    12.14% { transform: translate(50px, 18px); }
-    14.50% { transform: translate(50px, 18px); }
-    15.01% { transform: translate(76px, 44px); }
-    16.36% { transform: translate(76px, 44px); }
-    16.86% { transform: translate(89px, 57px); }
-    19.22% { transform: translate(89px, 57px); }
-    19.73% { transform: translate(89px, 96px); }
-    24.79% { transform: translate(89px, 96px); }
-    25.30% { transform: translate(115px, 18px); }
-    26.64% { transform: translate(115px, 18px); }
-    27.15% { transform: translate(115px, 31px); }
-    29.51% { transform: translate(115px, 31px); }
-    30.02% { transform: translate(141px, 96px); }
-    35.08% { transform: translate(141px, 96px); }
-    35.58% { transform: translate(154px, 83px); }
-    37.94% { transform: translate(154px, 83px); }
-    38.45% { transform: translate(154px, 18px); }
-    39.80% { transform: translate(154px, 18px); }
-    40.30% { transform: translate(336px, 44px); }
-    41.65% { transform: translate(336px, 44px); }
-    42.16% { transform: translate(336px, 18px); }
-    43.51% { transform: translate(336px, 18px); }
-    44.01% { transform: translate(349px, 18px); }
-    49.07% { transform: translate(349px, 18px); }
-    49.58% { transform: translate(349px, 83px); }
-    54.64% { transform: translate(349px, 83px); }
-    55.14% { transform: translate(375px, 57px); }
-    56.49% { transform: translate(375px, 57px); }
-    57.00% { transform: translate(414px, 57px); }
-    62.06% { transform: translate(414px, 57px); }
-    62.56% { transform: translate(414px, 44px); }
-    67.62% { transform: translate(414px, 44px); }
-    68.13% { transform: translate(466px, 31px); }
-    71.50% { transform: translate(466px, 31px); }
-    72.01% { transform: translate(505px, 57px); }
-    73.36% { transform: translate(505px, 57px); }
-    73.86% { transform: translate(518px, 83px); }
-    75.21% { transform: translate(518px, 83px); }
-    75.72% { transform: translate(518px, 57px); }
-    77.07% { transform: translate(518px, 57px); }
-    77.57% { transform: translate(557px, 18px); }
-    80.94% { transform: translate(557px, 18px); }
-    81.45% { transform: translate(570px, 83px); }
-    86.51% { transform: translate(570px, 83px); }
-    87.02% { transform: translate(674px, 96px); }
-    92.07% { transform: translate(674px, 96px); }
-    92.58% { transform: translate(674px, 70px); }
-    97.64% { transform: translate(674px, 70px); }
-    98.15% { transform: translate(687px, 18px); }
+    0.00% { transform: translate(11px, 31px); }
+    1.36% { transform: translate(11px, 31px); }
+    1.87% { transform: translate(24px, 96px); }
+    3.24% { transform: translate(24px, 96px); }
+    3.75% { transform: translate(24px, 70px); }
+    5.11% { transform: translate(24px, 70px); }
+    5.62% { transform: translate(24px, 57px); }
+    6.98% { transform: translate(24px, 57px); }
+    7.50% { transform: translate(37px, 18px); }
+    9.88% { transform: translate(37px, 18px); }
+    10.39% { transform: translate(37px, 44px); }
+    11.75% { transform: translate(37px, 44px); }
+    12.27% { transform: translate(63px, 44px); }
+    13.63% { transform: translate(63px, 44px); }
+    14.14% { transform: translate(76px, 96px); }
+    19.25% { transform: translate(76px, 96px); }
+    19.76% { transform: translate(76px, 57px); }
+    22.15% { transform: translate(76px, 57px); }
+    22.66% { transform: translate(102px, 31px); }
+    25.04% { transform: translate(102px, 31px); }
+    25.55% { transform: translate(102px, 18px); }
+    26.92% { transform: translate(102px, 18px); }
+    27.43% { transform: translate(128px, 96px); }
+    32.54% { transform: translate(128px, 96px); }
+    33.05% { transform: translate(141px, 18px); }
+    34.41% { transform: translate(141px, 18px); }
+    34.92% { transform: translate(141px, 83px); }
+    37.31% { transform: translate(141px, 83px); }
+    37.82% { transform: translate(323px, 18px); }
+    39.18% { transform: translate(323px, 18px); }
+    39.69% { transform: translate(323px, 44px); }
+    41.06% { transform: translate(323px, 44px); }
+    41.57% { transform: translate(336px, 83px); }
+    46.68% { transform: translate(336px, 83px); }
+    47.19% { transform: translate(336px, 18px); }
+    52.30% { transform: translate(336px, 18px); }
+    52.81% { transform: translate(362px, 57px); }
+    54.17% { transform: translate(362px, 57px); }
+    54.68% { transform: translate(401px, 44px); }
+    59.80% { transform: translate(401px, 44px); }
+    60.31% { transform: translate(401px, 57px); }
+    65.42% { transform: translate(401px, 57px); }
+    65.93% { transform: translate(453px, 31px); }
+    69.34% { transform: translate(453px, 31px); }
+    69.85% { transform: translate(492px, 57px); }
+    71.21% { transform: translate(492px, 57px); }
+    71.72% { transform: translate(505px, 57px); }
+    73.08% { transform: translate(505px, 57px); }
+    73.59% { transform: translate(505px, 83px); }
+    74.96% { transform: translate(505px, 83px); }
+    75.47% { transform: translate(544px, 18px); }
+    78.88% { transform: translate(544px, 18px); }
+    79.39% { transform: translate(557px, 83px); }
+    84.50% { transform: translate(557px, 83px); }
+    85.01% { transform: translate(661px, 70px); }
+    90.12% { transform: translate(661px, 70px); }
+    90.63% { transform: translate(661px, 96px); }
+    95.74% { transform: translate(661px, 96px); }
+    96.25% { transform: translate(674px, 18px); }
+    97.61% { transform: translate(674px, 18px); }
+    98.13% { transform: translate(687px, 18px); }
     99.49% { transform: translate(687px, 18px); }
-    100% { transform: translate(11px, 96px); }
+    100% { transform: translate(11px, 31px); }
 }@keyframes toolSwing {
     0.00% { transform: rotate(0deg) translateY(0px); }
-    0.94% { transform: rotate(-70deg) translateY(-1px); }
-    2.36% { transform: rotate(0deg) translateY(0px); }
-    2.36% { transform: rotate(-70deg) translateY(-1px); }
-    2.36% { transform: rotate(0deg) translateY(0px); }
-    2.87% { transform: rotate(0deg) translateY(0px); }
-    3.41% { transform: rotate(-70deg) translateY(-1px); }
-    4.22% { transform: rotate(0deg) translateY(0px); }
-    4.22% { transform: rotate(-70deg) translateY(-1px); }
-    4.22% { transform: rotate(0deg) translateY(0px); }
-    4.72% { transform: rotate(0deg) translateY(0px); }
-    5.26% { transform: rotate(-70deg) translateY(-1px); }
-    6.07% { transform: rotate(0deg) translateY(0px); }
-    6.07% { transform: rotate(-70deg) translateY(-1px); }
-    6.07% { transform: rotate(0deg) translateY(0px); }
-    6.58% { transform: rotate(0deg) translateY(0px); }
-    7.12% { transform: rotate(-70deg) translateY(-1px); }
-    7.93% { transform: rotate(0deg) translateY(0px); }
-    7.93% { transform: rotate(-70deg) translateY(-1px); }
-    7.93% { transform: rotate(0deg) translateY(0px); }
-    8.43% { transform: rotate(0deg) translateY(0px); }
-    8.97% { transform: rotate(-70deg) translateY(-1px); }
-    9.78% { transform: rotate(0deg) translateY(0px); }
-    9.78% { transform: rotate(-70deg) translateY(-1px); }
-    9.78% { transform: rotate(0deg) translateY(0px); }
-    10.29% { transform: rotate(0deg) translateY(0px); }
-    10.83% { transform: rotate(-70deg) translateY(-1px); }
-    11.64% { transform: rotate(0deg) translateY(0px); }
-    11.64% { transform: rotate(-70deg) translateY(-1px); }
-    11.64% { transform: rotate(0deg) translateY(0px); }
-    12.14% { transform: rotate(0deg) translateY(0px); }
-    13.09% { transform: rotate(-70deg) translateY(-1px); }
-    14.50% { transform: rotate(0deg) translateY(0px); }
-    14.50% { transform: rotate(-70deg) translateY(-1px); }
-    14.50% { transform: rotate(0deg) translateY(0px); }
-    15.01% { transform: rotate(0deg) translateY(0px); }
-    15.55% { transform: rotate(-70deg) translateY(-1px); }
-    16.36% { transform: rotate(0deg) translateY(0px); }
-    16.36% { transform: rotate(-70deg) translateY(-1px); }
-    16.36% { transform: rotate(0deg) translateY(0px); }
-    16.86% { transform: rotate(0deg) translateY(0px); }
-    17.81% { transform: rotate(-70deg) translateY(-1px); }
-    19.22% { transform: rotate(0deg) translateY(0px); }
-    19.22% { transform: rotate(-70deg) translateY(-1px); }
-    19.22% { transform: rotate(0deg) translateY(0px); }
-    19.73% { transform: rotate(0deg) translateY(0px); }
-    20.13% { transform: rotate(-70deg) translateY(-1px); }
-    20.74% { transform: rotate(0deg) translateY(0px); }
-    21.15% { transform: rotate(-70deg) translateY(-1px); }
-    21.75% { transform: rotate(0deg) translateY(0px); }
-    22.16% { transform: rotate(-70deg) translateY(-1px); }
-    22.77% { transform: rotate(0deg) translateY(0px); }
-    23.17% { transform: rotate(-70deg) translateY(-1px); }
-    23.78% { transform: rotate(0deg) translateY(0px); }
-    24.18% { transform: rotate(-70deg) translateY(-1px); }
-    24.79% { transform: rotate(0deg) translateY(0px); }
-    24.79% { transform: rotate(-70deg) translateY(-1px); }
-    24.79% { transform: rotate(0deg) translateY(0px); }
-    25.30% { transform: rotate(0deg) translateY(0px); }
-    25.83% { transform: rotate(-70deg) translateY(-1px); }
-    26.64% { transform: rotate(0deg) translateY(0px); }
-    26.64% { transform: rotate(-70deg) translateY(-1px); }
-    26.64% { transform: rotate(0deg) translateY(0px); }
-    27.15% { transform: rotate(0deg) translateY(0px); }
-    28.09% { transform: rotate(-70deg) translateY(-1px); }
-    29.51% { transform: rotate(0deg) translateY(0px); }
-    29.51% { transform: rotate(-70deg) translateY(-1px); }
-    29.51% { transform: rotate(0deg) translateY(0px); }
-    30.02% { transform: rotate(0deg) translateY(0px); }
-    30.42% { transform: rotate(-70deg) translateY(-1px); }
-    31.03% { transform: rotate(0deg) translateY(0px); }
-    31.43% { transform: rotate(-70deg) translateY(-1px); }
-    32.04% { transform: rotate(0deg) translateY(0px); }
-    32.45% { transform: rotate(-70deg) translateY(-1px); }
+    0.55% { transform: rotate(-70deg) translateY(-1px); }
+    1.36% { transform: rotate(0deg) translateY(0px); }
+    1.36% { transform: rotate(-70deg) translateY(-1px); }
+    1.36% { transform: rotate(0deg) translateY(0px); }
+    1.87% { transform: rotate(0deg) translateY(0px); }
+    2.42% { transform: rotate(-70deg) translateY(-1px); }
+    3.24% { transform: rotate(0deg) translateY(0px); }
+    3.24% { transform: rotate(-70deg) translateY(-1px); }
+    3.24% { transform: rotate(0deg) translateY(0px); }
+    3.75% { transform: rotate(0deg) translateY(0px); }
+    4.29% { transform: rotate(-70deg) translateY(-1px); }
+    5.11% { transform: rotate(0deg) translateY(0px); }
+    5.11% { transform: rotate(-70deg) translateY(-1px); }
+    5.11% { transform: rotate(0deg) translateY(0px); }
+    5.62% { transform: rotate(0deg) translateY(0px); }
+    6.17% { transform: rotate(-70deg) translateY(-1px); }
+    6.98% { transform: rotate(0deg) translateY(0px); }
+    6.98% { transform: rotate(-70deg) translateY(-1px); }
+    6.98% { transform: rotate(0deg) translateY(0px); }
+    7.50% { transform: rotate(0deg) translateY(0px); }
+    8.45% { transform: rotate(-70deg) translateY(-1px); }
+    9.88% { transform: rotate(0deg) translateY(0px); }
+    9.88% { transform: rotate(-70deg) translateY(-1px); }
+    9.88% { transform: rotate(0deg) translateY(0px); }
+    10.39% { transform: rotate(0deg) translateY(0px); }
+    10.94% { transform: rotate(-70deg) translateY(-1px); }
+    11.75% { transform: rotate(0deg) translateY(0px); }
+    11.75% { transform: rotate(-70deg) translateY(-1px); }
+    11.75% { transform: rotate(0deg) translateY(0px); }
+    12.27% { transform: rotate(0deg) translateY(0px); }
+    12.81% { transform: rotate(-70deg) translateY(-1px); }
+    13.63% { transform: rotate(0deg) translateY(0px); }
+    13.63% { transform: rotate(-70deg) translateY(-1px); }
+    13.63% { transform: rotate(0deg) translateY(0px); }
+    14.14% { transform: rotate(0deg) translateY(0px); }
+    14.55% { transform: rotate(-70deg) translateY(-1px); }
+    15.16% { transform: rotate(0deg) translateY(0px); }
+    15.57% { transform: rotate(-70deg) translateY(-1px); }
+    16.18% { transform: rotate(0deg) translateY(0px); }
+    16.59% { transform: rotate(-70deg) translateY(-1px); }
+    17.21% { transform: rotate(0deg) translateY(0px); }
+    17.61% { transform: rotate(-70deg) translateY(-1px); }
+    18.23% { transform: rotate(0deg) translateY(0px); }
+    18.64% { transform: rotate(-70deg) translateY(-1px); }
+    19.25% { transform: rotate(0deg) translateY(0px); }
+    19.25% { transform: rotate(-70deg) translateY(-1px); }
+    19.25% { transform: rotate(0deg) translateY(0px); }
+    19.76% { transform: rotate(0deg) translateY(0px); }
+    20.72% { transform: rotate(-70deg) translateY(-1px); }
+    22.15% { transform: rotate(0deg) translateY(0px); }
+    22.15% { transform: rotate(-70deg) translateY(-1px); }
+    22.15% { transform: rotate(0deg) translateY(0px); }
+    22.66% { transform: rotate(0deg) translateY(0px); }
+    23.61% { transform: rotate(-70deg) translateY(-1px); }
+    25.04% { transform: rotate(0deg) translateY(0px); }
+    25.04% { transform: rotate(-70deg) translateY(-1px); }
+    25.04% { transform: rotate(0deg) translateY(0px); }
+    25.55% { transform: rotate(0deg) translateY(0px); }
+    26.10% { transform: rotate(-70deg) translateY(-1px); }
+    26.92% { transform: rotate(0deg) translateY(0px); }
+    26.92% { transform: rotate(-70deg) translateY(-1px); }
+    26.92% { transform: rotate(0deg) translateY(0px); }
+    27.43% { transform: rotate(0deg) translateY(0px); }
+    27.84% { transform: rotate(-70deg) translateY(-1px); }
+    28.45% { transform: rotate(0deg) translateY(0px); }
+    28.86% { transform: rotate(-70deg) translateY(-1px); }
+    29.47% { transform: rotate(0deg) translateY(0px); }
+    29.88% { transform: rotate(-70deg) translateY(-1px); }
+    30.49% { transform: rotate(0deg) translateY(0px); }
+    30.90% { transform: rotate(-70deg) translateY(-1px); }
+    31.52% { transform: rotate(0deg) translateY(0px); }
+    31.93% { transform: rotate(-70deg) translateY(-1px); }
+    32.54% { transform: rotate(0deg) translateY(0px); }
+    32.54% { transform: rotate(-70deg) translateY(-1px); }
+    32.54% { transform: rotate(0deg) translateY(0px); }
     33.05% { transform: rotate(0deg) translateY(0px); }
-    33.46% { transform: rotate(-70deg) translateY(-1px); }
-    34.06% { transform: rotate(0deg) translateY(0px); }
-    34.47% { transform: rotate(-70deg) translateY(-1px); }
-    35.08% { transform: rotate(0deg) translateY(0px); }
-    35.08% { transform: rotate(-70deg) translateY(-1px); }
-    35.08% { transform: rotate(0deg) translateY(0px); }
-    35.58% { transform: rotate(0deg) translateY(0px); }
-    36.53% { transform: rotate(-70deg) translateY(-1px); }
-    37.94% { transform: rotate(0deg) translateY(0px); }
-    37.94% { transform: rotate(-70deg) translateY(-1px); }
-    37.94% { transform: rotate(0deg) translateY(0px); }
-    38.45% { transform: rotate(0deg) translateY(0px); }
-    38.99% { transform: rotate(-70deg) translateY(-1px); }
-    39.80% { transform: rotate(0deg) translateY(0px); }
-    39.80% { transform: rotate(-70deg) translateY(-1px); }
-    39.80% { transform: rotate(0deg) translateY(0px); }
-    40.30% { transform: rotate(0deg) translateY(0px); }
-    40.84% { transform: rotate(-70deg) translateY(-1px); }
-    41.65% { transform: rotate(0deg) translateY(0px); }
-    41.65% { transform: rotate(-70deg) translateY(-1px); }
-    41.65% { transform: rotate(0deg) translateY(0px); }
-    42.16% { transform: rotate(0deg) translateY(0px); }
-    42.70% { transform: rotate(-70deg) translateY(-1px); }
-    43.51% { transform: rotate(0deg) translateY(0px); }
-    43.51% { transform: rotate(-70deg) translateY(-1px); }
-    43.51% { transform: rotate(0deg) translateY(0px); }
-    44.01% { transform: rotate(0deg) translateY(0px); }
-    44.42% { transform: rotate(-70deg) translateY(-1px); }
-    45.03% { transform: rotate(0deg) translateY(0px); }
-    45.43% { transform: rotate(-70deg) translateY(-1px); }
-    46.04% { transform: rotate(0deg) translateY(0px); }
-    46.44% { transform: rotate(-70deg) translateY(-1px); }
-    47.05% { transform: rotate(0deg) translateY(0px); }
-    47.45% { transform: rotate(-70deg) translateY(-1px); }
-    48.06% { transform: rotate(0deg) translateY(0px); }
-    48.47% { transform: rotate(-70deg) translateY(-1px); }
-    49.07% { transform: rotate(0deg) translateY(0px); }
-    49.07% { transform: rotate(-70deg) translateY(-1px); }
-    49.07% { transform: rotate(0deg) translateY(0px); }
-    49.58% { transform: rotate(0deg) translateY(0px); }
-    49.98% { transform: rotate(-70deg) translateY(-1px); }
-    50.59% { transform: rotate(0deg) translateY(0px); }
-    50.99% { transform: rotate(-70deg) translateY(-1px); }
-    51.60% { transform: rotate(0deg) translateY(0px); }
-    52.01% { transform: rotate(-70deg) translateY(-1px); }
-    52.61% { transform: rotate(0deg) translateY(0px); }
-    53.02% { transform: rotate(-70deg) translateY(-1px); }
-    53.63% { transform: rotate(0deg) translateY(0px); }
-    54.03% { transform: rotate(-70deg) translateY(-1px); }
-    54.64% { transform: rotate(0deg) translateY(0px); }
-    54.64% { transform: rotate(-70deg) translateY(-1px); }
-    54.64% { transform: rotate(0deg) translateY(0px); }
-    55.14% { transform: rotate(0deg) translateY(0px); }
-    55.68% { transform: rotate(-70deg) translateY(-1px); }
-    56.49% { transform: rotate(0deg) translateY(0px); }
-    56.49% { transform: rotate(-70deg) translateY(-1px); }
-    56.49% { transform: rotate(0deg) translateY(0px); }
-    57.00% { transform: rotate(0deg) translateY(0px); }
-    57.40% { transform: rotate(-70deg) translateY(-1px); }
-    58.01% { transform: rotate(0deg) translateY(0px); }
-    58.41% { transform: rotate(-70deg) translateY(-1px); }
-    59.02% { transform: rotate(0deg) translateY(0px); }
-    59.43% { transform: rotate(-70deg) translateY(-1px); }
-    60.03% { transform: rotate(0deg) translateY(0px); }
-    60.44% { transform: rotate(-70deg) translateY(-1px); }
-    61.05% { transform: rotate(0deg) translateY(0px); }
-    61.45% { transform: rotate(-70deg) translateY(-1px); }
-    62.06% { transform: rotate(0deg) translateY(0px); }
-    62.06% { transform: rotate(-70deg) translateY(-1px); }
-    62.06% { transform: rotate(0deg) translateY(0px); }
-    62.56% { transform: rotate(0deg) translateY(0px); }
-    62.97% { transform: rotate(-70deg) translateY(-1px); }
-    63.58% { transform: rotate(0deg) translateY(0px); }
-    63.98% { transform: rotate(-70deg) translateY(-1px); }
-    64.59% { transform: rotate(0deg) translateY(0px); }
-    64.99% { transform: rotate(-70deg) translateY(-1px); }
-    65.60% { transform: rotate(0deg) translateY(0px); }
-    66.00% { transform: rotate(-70deg) translateY(-1px); }
-    66.61% { transform: rotate(0deg) translateY(0px); }
-    67.02% { transform: rotate(-70deg) translateY(-1px); }
-    67.62% { transform: rotate(0deg) translateY(0px); }
-    67.62% { transform: rotate(-70deg) translateY(-1px); }
-    67.62% { transform: rotate(0deg) translateY(0px); }
-    68.13% { transform: rotate(0deg) translateY(0px); }
-    68.80% { transform: rotate(-70deg) translateY(-1px); }
-    69.81% { transform: rotate(0deg) translateY(0px); }
-    70.49% { transform: rotate(-70deg) translateY(-1px); }
-    71.50% { transform: rotate(0deg) translateY(0px); }
-    71.50% { transform: rotate(-70deg) translateY(-1px); }
-    71.50% { transform: rotate(0deg) translateY(0px); }
-    72.01% { transform: rotate(0deg) translateY(0px); }
-    72.55% { transform: rotate(-70deg) translateY(-1px); }
-    73.36% { transform: rotate(0deg) translateY(0px); }
-    73.36% { transform: rotate(-70deg) translateY(-1px); }
-    73.36% { transform: rotate(0deg) translateY(0px); }
-    73.86% { transform: rotate(0deg) translateY(0px); }
-    74.40% { transform: rotate(-70deg) translateY(-1px); }
-    75.21% { transform: rotate(0deg) translateY(0px); }
-    75.21% { transform: rotate(-70deg) translateY(-1px); }
-    75.21% { transform: rotate(0deg) translateY(0px); }
-    75.72% { transform: rotate(0deg) translateY(0px); }
-    76.26% { transform: rotate(-70deg) translateY(-1px); }
-    77.07% { transform: rotate(0deg) translateY(0px); }
-    77.07% { transform: rotate(-70deg) translateY(-1px); }
-    77.07% { transform: rotate(0deg) translateY(0px); }
-    77.57% { transform: rotate(0deg) translateY(0px); }
-    78.25% { transform: rotate(-70deg) translateY(-1px); }
-    79.26% { transform: rotate(0deg) translateY(0px); }
-    79.93% { transform: rotate(-70deg) translateY(-1px); }
-    80.94% { transform: rotate(0deg) translateY(0px); }
-    80.94% { transform: rotate(-70deg) translateY(-1px); }
-    80.94% { transform: rotate(0deg) translateY(0px); }
-    81.45% { transform: rotate(0deg) translateY(0px); }
-    81.85% { transform: rotate(-70deg) translateY(-1px); }
-    82.46% { transform: rotate(0deg) translateY(0px); }
-    82.87% { transform: rotate(-70deg) translateY(-1px); }
-    83.47% { transform: rotate(0deg) translateY(0px); }
+    33.59% { transform: rotate(-70deg) translateY(-1px); }
+    34.41% { transform: rotate(0deg) translateY(0px); }
+    34.41% { transform: rotate(-70deg) translateY(-1px); }
+    34.41% { transform: rotate(0deg) translateY(0px); }
+    34.92% { transform: rotate(0deg) translateY(0px); }
+    35.88% { transform: rotate(-70deg) translateY(-1px); }
+    37.31% { transform: rotate(0deg) translateY(0px); }
+    37.31% { transform: rotate(-70deg) translateY(-1px); }
+    37.31% { transform: rotate(0deg) translateY(0px); }
+    37.82% { transform: rotate(0deg) translateY(0px); }
+    38.36% { transform: rotate(-70deg) translateY(-1px); }
+    39.18% { transform: rotate(0deg) translateY(0px); }
+    39.18% { transform: rotate(-70deg) translateY(-1px); }
+    39.18% { transform: rotate(0deg) translateY(0px); }
+    39.69% { transform: rotate(0deg) translateY(0px); }
+    40.24% { transform: rotate(-70deg) translateY(-1px); }
+    41.06% { transform: rotate(0deg) translateY(0px); }
+    41.06% { transform: rotate(-70deg) translateY(-1px); }
+    41.06% { transform: rotate(0deg) translateY(0px); }
+    41.57% { transform: rotate(0deg) translateY(0px); }
+    41.98% { transform: rotate(-70deg) translateY(-1px); }
+    42.59% { transform: rotate(0deg) translateY(0px); }
+    43.00% { transform: rotate(-70deg) translateY(-1px); }
+    43.61% { transform: rotate(0deg) translateY(0px); }
+    44.02% { transform: rotate(-70deg) translateY(-1px); }
+    44.63% { transform: rotate(0deg) translateY(0px); }
+    45.04% { transform: rotate(-70deg) translateY(-1px); }
+    45.66% { transform: rotate(0deg) translateY(0px); }
+    46.06% { transform: rotate(-70deg) translateY(-1px); }
+    46.68% { transform: rotate(0deg) translateY(0px); }
+    46.68% { transform: rotate(-70deg) translateY(-1px); }
+    46.68% { transform: rotate(0deg) translateY(0px); }
+    47.19% { transform: rotate(0deg) translateY(0px); }
+    47.60% { transform: rotate(-70deg) translateY(-1px); }
+    48.21% { transform: rotate(0deg) translateY(0px); }
+    48.62% { transform: rotate(-70deg) translateY(-1px); }
+    49.23% { transform: rotate(0deg) translateY(0px); }
+    49.64% { transform: rotate(-70deg) translateY(-1px); }
+    50.26% { transform: rotate(0deg) translateY(0px); }
+    50.66% { transform: rotate(-70deg) translateY(-1px); }
+    51.28% { transform: rotate(0deg) translateY(0px); }
+    51.69% { transform: rotate(-70deg) translateY(-1px); }
+    52.30% { transform: rotate(0deg) translateY(0px); }
+    52.30% { transform: rotate(-70deg) translateY(-1px); }
+    52.30% { transform: rotate(0deg) translateY(0px); }
+    52.81% { transform: rotate(0deg) translateY(0px); }
+    53.36% { transform: rotate(-70deg) translateY(-1px); }
+    54.17% { transform: rotate(0deg) translateY(0px); }
+    54.17% { transform: rotate(-70deg) translateY(-1px); }
+    54.17% { transform: rotate(0deg) translateY(0px); }
+    54.68% { transform: rotate(0deg) translateY(0px); }
+    55.09% { transform: rotate(-70deg) translateY(-1px); }
+    55.71% { transform: rotate(0deg) translateY(0px); }
+    56.12% { transform: rotate(-70deg) translateY(-1px); }
+    56.73% { transform: rotate(0deg) translateY(0px); }
+    57.14% { transform: rotate(-70deg) translateY(-1px); }
+    57.75% { transform: rotate(0deg) translateY(0px); }
+    58.16% { transform: rotate(-70deg) translateY(-1px); }
+    58.77% { transform: rotate(0deg) translateY(0px); }
+    59.18% { transform: rotate(-70deg) translateY(-1px); }
+    59.80% { transform: rotate(0deg) translateY(0px); }
+    59.80% { transform: rotate(-70deg) translateY(-1px); }
+    59.80% { transform: rotate(0deg) translateY(0px); }
+    60.31% { transform: rotate(0deg) translateY(0px); }
+    60.72% { transform: rotate(-70deg) translateY(-1px); }
+    61.33% { transform: rotate(0deg) translateY(0px); }
+    61.74% { transform: rotate(-70deg) translateY(-1px); }
+    62.35% { transform: rotate(0deg) translateY(0px); }
+    62.76% { transform: rotate(-70deg) translateY(-1px); }
+    63.37% { transform: rotate(0deg) translateY(0px); }
+    63.78% { transform: rotate(-70deg) translateY(-1px); }
+    64.40% { transform: rotate(0deg) translateY(0px); }
+    64.80% { transform: rotate(-70deg) translateY(-1px); }
+    65.42% { transform: rotate(0deg) translateY(0px); }
+    65.42% { transform: rotate(-70deg) translateY(-1px); }
+    65.42% { transform: rotate(0deg) translateY(0px); }
+    65.93% { transform: rotate(0deg) translateY(0px); }
+    66.61% { transform: rotate(-70deg) translateY(-1px); }
+    67.63% { transform: rotate(0deg) translateY(0px); }
+    68.31% { transform: rotate(-70deg) translateY(-1px); }
+    69.34% { transform: rotate(0deg) translateY(0px); }
+    69.34% { transform: rotate(-70deg) translateY(-1px); }
+    69.34% { transform: rotate(0deg) translateY(0px); }
+    69.85% { transform: rotate(0deg) translateY(0px); }
+    70.39% { transform: rotate(-70deg) translateY(-1px); }
+    71.21% { transform: rotate(0deg) translateY(0px); }
+    71.21% { transform: rotate(-70deg) translateY(-1px); }
+    71.21% { transform: rotate(0deg) translateY(0px); }
+    71.72% { transform: rotate(0deg) translateY(0px); }
+    72.27% { transform: rotate(-70deg) translateY(-1px); }
+    73.08% { transform: rotate(0deg) translateY(0px); }
+    73.08% { transform: rotate(-70deg) translateY(-1px); }
+    73.08% { transform: rotate(0deg) translateY(0px); }
+    73.59% { transform: rotate(0deg) translateY(0px); }
+    74.14% { transform: rotate(-70deg) translateY(-1px); }
+    74.96% { transform: rotate(0deg) translateY(0px); }
+    74.96% { transform: rotate(-70deg) translateY(-1px); }
+    74.96% { transform: rotate(0deg) translateY(0px); }
+    75.47% { transform: rotate(0deg) translateY(0px); }
+    76.15% { transform: rotate(-70deg) translateY(-1px); }
+    77.17% { transform: rotate(0deg) translateY(0px); }
+    77.85% { transform: rotate(-70deg) translateY(-1px); }
+    78.88% { transform: rotate(0deg) translateY(0px); }
+    78.88% { transform: rotate(-70deg) translateY(-1px); }
+    78.88% { transform: rotate(0deg) translateY(0px); }
+    79.39% { transform: rotate(0deg) translateY(0px); }
+    79.80% { transform: rotate(-70deg) translateY(-1px); }
+    80.41% { transform: rotate(0deg) translateY(0px); }
+    80.82% { transform: rotate(-70deg) translateY(-1px); }
+    81.43% { transform: rotate(0deg) translateY(0px); }
+    81.84% { transform: rotate(-70deg) translateY(-1px); }
+    82.45% { transform: rotate(0deg) translateY(0px); }
+    82.86% { transform: rotate(-70deg) translateY(-1px); }
+    83.48% { transform: rotate(0deg) translateY(0px); }
     83.88% { transform: rotate(-70deg) translateY(-1px); }
-    84.49% { transform: rotate(0deg) translateY(0px); }
-    84.89% { transform: rotate(-70deg) translateY(-1px); }
-    85.50% { transform: rotate(0deg) translateY(0px); }
-    85.90% { transform: rotate(-70deg) translateY(-1px); }
-    86.51% { transform: rotate(0deg) translateY(0px); }
-    86.51% { transform: rotate(-70deg) translateY(-1px); }
-    86.51% { transform: rotate(0deg) translateY(0px); }
-    87.02% { transform: rotate(0deg) translateY(0px); }
-    87.42% { transform: rotate(-70deg) translateY(-1px); }
-    88.03% { transform: rotate(0deg) translateY(0px); }
-    88.43% { transform: rotate(-70deg) translateY(-1px); }
-    89.04% { transform: rotate(0deg) translateY(0px); }
-    89.44% { transform: rotate(-70deg) translateY(-1px); }
-    90.05% { transform: rotate(0deg) translateY(0px); }
-    90.46% { transform: rotate(-70deg) translateY(-1px); }
-    91.06% { transform: rotate(0deg) translateY(0px); }
-    91.47% { transform: rotate(-70deg) translateY(-1px); }
-    92.07% { transform: rotate(0deg) translateY(0px); }
-    92.07% { transform: rotate(-70deg) translateY(-1px); }
-    92.07% { transform: rotate(0deg) translateY(0px); }
-    92.58% { transform: rotate(0deg) translateY(0px); }
-    92.98% { transform: rotate(-70deg) translateY(-1px); }
-    93.59% { transform: rotate(0deg) translateY(0px); }
-    94.00% { transform: rotate(-70deg) translateY(-1px); }
-    94.60% { transform: rotate(0deg) translateY(0px); }
-    95.01% { transform: rotate(-70deg) translateY(-1px); }
-    95.62% { transform: rotate(0deg) translateY(0px); }
-    96.02% { transform: rotate(-70deg) translateY(-1px); }
-    96.63% { transform: rotate(0deg) translateY(0px); }
-    97.03% { transform: rotate(-70deg) translateY(-1px); }
-    97.64% { transform: rotate(0deg) translateY(0px); }
-    97.64% { transform: rotate(-70deg) translateY(-1px); }
-    97.64% { transform: rotate(0deg) translateY(0px); }
-    98.15% { transform: rotate(0deg) translateY(0px); }
-    98.68% { transform: rotate(-70deg) translateY(-1px); }
+    84.50% { transform: rotate(0deg) translateY(0px); }
+    84.50% { transform: rotate(-70deg) translateY(-1px); }
+    84.50% { transform: rotate(0deg) translateY(0px); }
+    85.01% { transform: rotate(0deg) translateY(0px); }
+    85.42% { transform: rotate(-70deg) translateY(-1px); }
+    86.03% { transform: rotate(0deg) translateY(0px); }
+    86.44% { transform: rotate(-70deg) translateY(-1px); }
+    87.05% { transform: rotate(0deg) translateY(0px); }
+    87.46% { transform: rotate(-70deg) translateY(-1px); }
+    88.07% { transform: rotate(0deg) translateY(0px); }
+    88.48% { transform: rotate(-70deg) translateY(-1px); }
+    89.10% { transform: rotate(0deg) translateY(0px); }
+    89.51% { transform: rotate(-70deg) translateY(-1px); }
+    90.12% { transform: rotate(0deg) translateY(0px); }
+    90.12% { transform: rotate(-70deg) translateY(-1px); }
+    90.12% { transform: rotate(0deg) translateY(0px); }
+    90.63% { transform: rotate(0deg) translateY(0px); }
+    91.04% { transform: rotate(-70deg) translateY(-1px); }
+    91.65% { transform: rotate(0deg) translateY(0px); }
+    92.06% { transform: rotate(-70deg) translateY(-1px); }
+    92.67% { transform: rotate(0deg) translateY(0px); }
+    93.08% { transform: rotate(-70deg) translateY(-1px); }
+    93.70% { transform: rotate(0deg) translateY(0px); }
+    94.11% { transform: rotate(-70deg) translateY(-1px); }
+    94.72% { transform: rotate(0deg) translateY(0px); }
+    95.13% { transform: rotate(-70deg) translateY(-1px); }
+    95.74% { transform: rotate(0deg) translateY(0px); }
+    95.74% { transform: rotate(-70deg) translateY(-1px); }
+    95.74% { transform: rotate(0deg) translateY(0px); }
+    96.25% { transform: rotate(0deg) translateY(0px); }
+    96.80% { transform: rotate(-70deg) translateY(-1px); }
+    97.61% { transform: rotate(0deg) translateY(0px); }
+    97.61% { transform: rotate(-70deg) translateY(-1px); }
+    97.61% { transform: rotate(0deg) translateY(0px); }
+    98.13% { transform: rotate(0deg) translateY(0px); }
+    98.67% { transform: rotate(-70deg) translateY(-1px); }
     99.49% { transform: rotate(0deg) translateY(0px); }
     99.49% { transform: rotate(-70deg) translateY(-1px); }
     99.49% { transform: rotate(0deg) translateY(0px); }
@@ -920,314 +920,315 @@
 }
 @keyframes minerBob {
     0.00% { transform: translateY(0px); }
-    0.47% { transform: translateY(-1px); }
-    2.36% { transform: translateY(0px); }
-    2.83% { transform: translateY(-1px); }
-    2.36% { transform: translateY(0px); }
-    2.87% { transform: translateY(0px); }
-    3.14% { transform: translateY(-1px); }
-    4.22% { transform: translateY(0px); }
-    4.49% { transform: translateY(-1px); }
-    4.22% { transform: translateY(0px); }
-    4.72% { transform: translateY(0px); }
-    4.99% { transform: translateY(-1px); }
-    6.07% { transform: translateY(0px); }
-    6.34% { transform: translateY(-1px); }
-    6.07% { transform: translateY(0px); }
-    6.58% { transform: translateY(0px); }
-    6.85% { transform: translateY(-1px); }
-    7.93% { transform: translateY(0px); }
-    8.20% { transform: translateY(-1px); }
-    7.93% { transform: translateY(0px); }
-    8.43% { transform: translateY(0px); }
-    8.70% { transform: translateY(-1px); }
-    9.78% { transform: translateY(0px); }
-    10.05% { transform: translateY(-1px); }
-    9.78% { transform: translateY(0px); }
-    10.29% { transform: translateY(0px); }
-    10.56% { transform: translateY(-1px); }
-    11.64% { transform: translateY(0px); }
-    11.91% { transform: translateY(-1px); }
-    11.64% { transform: translateY(0px); }
-    12.14% { transform: translateY(0px); }
-    12.61% { transform: translateY(-1px); }
-    14.50% { transform: translateY(0px); }
-    14.97% { transform: translateY(-1px); }
-    14.50% { transform: translateY(0px); }
-    15.01% { transform: translateY(0px); }
-    15.28% { transform: translateY(-1px); }
-    16.36% { transform: translateY(0px); }
-    16.63% { transform: translateY(-1px); }
-    16.36% { transform: translateY(0px); }
-    16.86% { transform: translateY(0px); }
-    17.34% { transform: translateY(-1px); }
-    19.22% { transform: translateY(0px); }
-    19.70% { transform: translateY(-1px); }
-    19.22% { transform: translateY(0px); }
-    19.73% { transform: translateY(0px); }
-    19.93% { transform: translateY(-1px); }
-    20.74% { transform: translateY(0px); }
-    20.94% { transform: translateY(-1px); }
-    21.75% { transform: translateY(0px); }
-    21.96% { transform: translateY(-1px); }
-    22.77% { transform: translateY(0px); }
-    22.97% { transform: translateY(-1px); }
-    23.78% { transform: translateY(0px); }
-    23.98% { transform: translateY(-1px); }
-    24.79% { transform: translateY(0px); }
-    24.99% { transform: translateY(-1px); }
-    24.79% { transform: translateY(0px); }
-    25.30% { transform: translateY(0px); }
-    25.56% { transform: translateY(-1px); }
-    26.64% { transform: translateY(0px); }
-    26.91% { transform: translateY(-1px); }
-    26.64% { transform: translateY(0px); }
-    27.15% { transform: translateY(0px); }
-    27.62% { transform: translateY(-1px); }
-    29.51% { transform: translateY(0px); }
-    29.98% { transform: translateY(-1px); }
-    29.51% { transform: translateY(0px); }
-    30.02% { transform: translateY(0px); }
-    30.22% { transform: translateY(-1px); }
-    31.03% { transform: translateY(0px); }
-    31.23% { transform: translateY(-1px); }
-    32.04% { transform: translateY(0px); }
-    32.24% { transform: translateY(-1px); }
+    0.27% { transform: translateY(-1px); }
+    1.36% { transform: translateY(0px); }
+    1.64% { transform: translateY(-1px); }
+    1.36% { transform: translateY(0px); }
+    1.87% { transform: translateY(0px); }
+    2.15% { transform: translateY(-1px); }
+    3.24% { transform: translateY(0px); }
+    3.51% { transform: translateY(-1px); }
+    3.24% { transform: translateY(0px); }
+    3.75% { transform: translateY(0px); }
+    4.02% { transform: translateY(-1px); }
+    5.11% { transform: translateY(0px); }
+    5.38% { transform: translateY(-1px); }
+    5.11% { transform: translateY(0px); }
+    5.62% { transform: translateY(0px); }
+    5.89% { transform: translateY(-1px); }
+    6.98% { transform: translateY(0px); }
+    7.26% { transform: translateY(-1px); }
+    6.98% { transform: translateY(0px); }
+    7.50% { transform: translateY(0px); }
+    7.97% { transform: translateY(-1px); }
+    9.88% { transform: translateY(0px); }
+    10.36% { transform: translateY(-1px); }
+    9.88% { transform: translateY(0px); }
+    10.39% { transform: translateY(0px); }
+    10.66% { transform: translateY(-1px); }
+    11.75% { transform: translateY(0px); }
+    12.03% { transform: translateY(-1px); }
+    11.75% { transform: translateY(0px); }
+    12.27% { transform: translateY(0px); }
+    12.54% { transform: translateY(-1px); }
+    13.63% { transform: translateY(0px); }
+    13.90% { transform: translateY(-1px); }
+    13.63% { transform: translateY(0px); }
+    14.14% { transform: translateY(0px); }
+    14.34% { transform: translateY(-1px); }
+    15.16% { transform: translateY(0px); }
+    15.37% { transform: translateY(-1px); }
+    16.18% { transform: translateY(0px); }
+    16.39% { transform: translateY(-1px); }
+    17.21% { transform: translateY(0px); }
+    17.41% { transform: translateY(-1px); }
+    18.23% { transform: translateY(0px); }
+    18.43% { transform: translateY(-1px); }
+    19.25% { transform: translateY(0px); }
+    19.45% { transform: translateY(-1px); }
+    19.25% { transform: translateY(0px); }
+    19.76% { transform: translateY(0px); }
+    20.24% { transform: translateY(-1px); }
+    22.15% { transform: translateY(0px); }
+    22.62% { transform: translateY(-1px); }
+    22.15% { transform: translateY(0px); }
+    22.66% { transform: translateY(0px); }
+    23.13% { transform: translateY(-1px); }
+    25.04% { transform: translateY(0px); }
+    25.52% { transform: translateY(-1px); }
+    25.04% { transform: translateY(0px); }
+    25.55% { transform: translateY(0px); }
+    25.83% { transform: translateY(-1px); }
+    26.92% { transform: translateY(0px); }
+    27.19% { transform: translateY(-1px); }
+    26.92% { transform: translateY(0px); }
+    27.43% { transform: translateY(0px); }
+    27.63% { transform: translateY(-1px); }
+    28.45% { transform: translateY(0px); }
+    28.65% { transform: translateY(-1px); }
+    29.47% { transform: translateY(0px); }
+    29.68% { transform: translateY(-1px); }
+    30.49% { transform: translateY(0px); }
+    30.70% { transform: translateY(-1px); }
+    31.52% { transform: translateY(0px); }
+    31.72% { transform: translateY(-1px); }
+    32.54% { transform: translateY(0px); }
+    32.74% { transform: translateY(-1px); }
+    32.54% { transform: translateY(0px); }
     33.05% { transform: translateY(0px); }
-    33.25% { transform: translateY(-1px); }
-    34.06% { transform: translateY(0px); }
-    34.27% { transform: translateY(-1px); }
-    35.08% { transform: translateY(0px); }
-    35.28% { transform: translateY(-1px); }
-    35.08% { transform: translateY(0px); }
-    35.58% { transform: translateY(0px); }
-    36.05% { transform: translateY(-1px); }
-    37.94% { transform: translateY(0px); }
-    38.41% { transform: translateY(-1px); }
-    37.94% { transform: translateY(0px); }
-    38.45% { transform: translateY(0px); }
-    38.72% { transform: translateY(-1px); }
-    39.80% { transform: translateY(0px); }
-    40.07% { transform: translateY(-1px); }
-    39.80% { transform: translateY(0px); }
-    40.30% { transform: translateY(0px); }
-    40.57% { transform: translateY(-1px); }
-    41.65% { transform: translateY(0px); }
-    41.92% { transform: translateY(-1px); }
-    41.65% { transform: translateY(0px); }
-    42.16% { transform: translateY(0px); }
-    42.43% { transform: translateY(-1px); }
-    43.51% { transform: translateY(0px); }
-    43.78% { transform: translateY(-1px); }
-    43.51% { transform: translateY(0px); }
-    44.01% { transform: translateY(0px); }
-    44.22% { transform: translateY(-1px); }
-    45.03% { transform: translateY(0px); }
-    45.23% { transform: translateY(-1px); }
-    46.04% { transform: translateY(0px); }
-    46.24% { transform: translateY(-1px); }
-    47.05% { transform: translateY(0px); }
-    47.25% { transform: translateY(-1px); }
-    48.06% { transform: translateY(0px); }
-    48.26% { transform: translateY(-1px); }
-    49.07% { transform: translateY(0px); }
-    49.27% { transform: translateY(-1px); }
-    49.07% { transform: translateY(0px); }
-    49.58% { transform: translateY(0px); }
-    49.78% { transform: translateY(-1px); }
-    50.59% { transform: translateY(0px); }
-    50.79% { transform: translateY(-1px); }
-    51.60% { transform: translateY(0px); }
-    51.80% { transform: translateY(-1px); }
-    52.61% { transform: translateY(0px); }
-    52.82% { transform: translateY(-1px); }
-    53.63% { transform: translateY(0px); }
-    53.83% { transform: translateY(-1px); }
-    54.64% { transform: translateY(0px); }
-    54.84% { transform: translateY(-1px); }
-    54.64% { transform: translateY(0px); }
-    55.14% { transform: translateY(0px); }
-    55.41% { transform: translateY(-1px); }
-    56.49% { transform: translateY(0px); }
-    56.76% { transform: translateY(-1px); }
-    56.49% { transform: translateY(0px); }
-    57.00% { transform: translateY(0px); }
-    57.20% { transform: translateY(-1px); }
-    58.01% { transform: translateY(0px); }
-    58.21% { transform: translateY(-1px); }
-    59.02% { transform: translateY(0px); }
-    59.22% { transform: translateY(-1px); }
-    60.03% { transform: translateY(0px); }
-    60.24% { transform: translateY(-1px); }
-    61.05% { transform: translateY(0px); }
-    61.25% { transform: translateY(-1px); }
-    62.06% { transform: translateY(0px); }
-    62.26% { transform: translateY(-1px); }
-    62.06% { transform: translateY(0px); }
-    62.56% { transform: translateY(0px); }
-    62.77% { transform: translateY(-1px); }
-    63.58% { transform: translateY(0px); }
-    63.78% { transform: translateY(-1px); }
-    64.59% { transform: translateY(0px); }
-    64.79% { transform: translateY(-1px); }
-    65.60% { transform: translateY(0px); }
-    65.80% { transform: translateY(-1px); }
-    66.61% { transform: translateY(0px); }
-    66.81% { transform: translateY(-1px); }
-    67.62% { transform: translateY(0px); }
-    67.82% { transform: translateY(-1px); }
-    67.62% { transform: translateY(0px); }
-    68.13% { transform: translateY(0px); }
-    68.47% { transform: translateY(-1px); }
-    69.81% { transform: translateY(0px); }
-    70.15% { transform: translateY(-1px); }
-    71.50% { transform: translateY(0px); }
-    71.84% { transform: translateY(-1px); }
-    71.50% { transform: translateY(0px); }
-    72.01% { transform: translateY(0px); }
-    72.28% { transform: translateY(-1px); }
-    73.36% { transform: translateY(0px); }
-    73.63% { transform: translateY(-1px); }
-    73.36% { transform: translateY(0px); }
-    73.86% { transform: translateY(0px); }
-    74.13% { transform: translateY(-1px); }
-    75.21% { transform: translateY(0px); }
-    75.48% { transform: translateY(-1px); }
-    75.21% { transform: translateY(0px); }
-    75.72% { transform: translateY(0px); }
-    75.99% { transform: translateY(-1px); }
-    77.07% { transform: translateY(0px); }
-    77.34% { transform: translateY(-1px); }
-    77.07% { transform: translateY(0px); }
-    77.57% { transform: translateY(0px); }
-    77.91% { transform: translateY(-1px); }
-    79.26% { transform: translateY(0px); }
-    79.60% { transform: translateY(-1px); }
-    80.94% { transform: translateY(0px); }
-    81.28% { transform: translateY(-1px); }
-    80.94% { transform: translateY(0px); }
-    81.45% { transform: translateY(0px); }
-    81.65% { transform: translateY(-1px); }
-    82.46% { transform: translateY(0px); }
+    33.32% { transform: translateY(-1px); }
+    34.41% { transform: translateY(0px); }
+    34.68% { transform: translateY(-1px); }
+    34.41% { transform: translateY(0px); }
+    34.92% { transform: translateY(0px); }
+    35.40% { transform: translateY(-1px); }
+    37.31% { transform: translateY(0px); }
+    37.79% { transform: translateY(-1px); }
+    37.31% { transform: translateY(0px); }
+    37.82% { transform: translateY(0px); }
+    38.09% { transform: translateY(-1px); }
+    39.18% { transform: translateY(0px); }
+    39.45% { transform: translateY(-1px); }
+    39.18% { transform: translateY(0px); }
+    39.69% { transform: translateY(0px); }
+    39.97% { transform: translateY(-1px); }
+    41.06% { transform: translateY(0px); }
+    41.33% { transform: translateY(-1px); }
+    41.06% { transform: translateY(0px); }
+    41.57% { transform: translateY(0px); }
+    41.77% { transform: translateY(-1px); }
+    42.59% { transform: translateY(0px); }
+    42.79% { transform: translateY(-1px); }
+    43.61% { transform: translateY(0px); }
+    43.82% { transform: translateY(-1px); }
+    44.63% { transform: translateY(0px); }
+    44.84% { transform: translateY(-1px); }
+    45.66% { transform: translateY(0px); }
+    45.86% { transform: translateY(-1px); }
+    46.68% { transform: translateY(0px); }
+    46.88% { transform: translateY(-1px); }
+    46.68% { transform: translateY(0px); }
+    47.19% { transform: translateY(0px); }
+    47.39% { transform: translateY(-1px); }
+    48.21% { transform: translateY(0px); }
+    48.42% { transform: translateY(-1px); }
+    49.23% { transform: translateY(0px); }
+    49.44% { transform: translateY(-1px); }
+    50.26% { transform: translateY(0px); }
+    50.46% { transform: translateY(-1px); }
+    51.28% { transform: translateY(0px); }
+    51.48% { transform: translateY(-1px); }
+    52.30% { transform: translateY(0px); }
+    52.50% { transform: translateY(-1px); }
+    52.30% { transform: translateY(0px); }
+    52.81% { transform: translateY(0px); }
+    53.08% { transform: translateY(-1px); }
+    54.17% { transform: translateY(0px); }
+    54.45% { transform: translateY(-1px); }
+    54.17% { transform: translateY(0px); }
+    54.68% { transform: translateY(0px); }
+    54.89% { transform: translateY(-1px); }
+    55.71% { transform: translateY(0px); }
+    55.91% { transform: translateY(-1px); }
+    56.73% { transform: translateY(0px); }
+    56.93% { transform: translateY(-1px); }
+    57.75% { transform: translateY(0px); }
+    57.96% { transform: translateY(-1px); }
+    58.77% { transform: translateY(0px); }
+    58.98% { transform: translateY(-1px); }
+    59.80% { transform: translateY(0px); }
+    60.00% { transform: translateY(-1px); }
+    59.80% { transform: translateY(0px); }
+    60.31% { transform: translateY(0px); }
+    60.51% { transform: translateY(-1px); }
+    61.33% { transform: translateY(0px); }
+    61.53% { transform: translateY(-1px); }
+    62.35% { transform: translateY(0px); }
+    62.56% { transform: translateY(-1px); }
+    63.37% { transform: translateY(0px); }
+    63.58% { transform: translateY(-1px); }
+    64.40% { transform: translateY(0px); }
+    64.60% { transform: translateY(-1px); }
+    65.42% { transform: translateY(0px); }
+    65.62% { transform: translateY(-1px); }
+    65.42% { transform: translateY(0px); }
+    65.93% { transform: translateY(0px); }
+    66.27% { transform: translateY(-1px); }
+    67.63% { transform: translateY(0px); }
+    67.97% { transform: translateY(-1px); }
+    69.34% { transform: translateY(0px); }
+    69.68% { transform: translateY(-1px); }
+    69.34% { transform: translateY(0px); }
+    69.85% { transform: translateY(0px); }
+    70.12% { transform: translateY(-1px); }
+    71.21% { transform: translateY(0px); }
+    71.48% { transform: translateY(-1px); }
+    71.21% { transform: translateY(0px); }
+    71.72% { transform: translateY(0px); }
+    71.99% { transform: translateY(-1px); }
+    73.08% { transform: translateY(0px); }
+    73.36% { transform: translateY(-1px); }
+    73.08% { transform: translateY(0px); }
+    73.59% { transform: translateY(0px); }
+    73.87% { transform: translateY(-1px); }
+    74.96% { transform: translateY(0px); }
+    75.23% { transform: translateY(-1px); }
+    74.96% { transform: translateY(0px); }
+    75.47% { transform: translateY(0px); }
+    75.81% { transform: translateY(-1px); }
+    77.17% { transform: translateY(0px); }
+    77.51% { transform: translateY(-1px); }
+    78.88% { transform: translateY(0px); }
+    79.22% { transform: translateY(-1px); }
+    78.88% { transform: translateY(0px); }
+    79.39% { transform: translateY(0px); }
+    79.59% { transform: translateY(-1px); }
+    80.41% { transform: translateY(0px); }
+    80.61% { transform: translateY(-1px); }
+    81.43% { transform: translateY(0px); }
+    81.64% { transform: translateY(-1px); }
+    82.45% { transform: translateY(0px); }
     82.66% { transform: translateY(-1px); }
-    83.47% { transform: translateY(0px); }
+    83.48% { transform: translateY(0px); }
     83.68% { transform: translateY(-1px); }
-    84.49% { transform: translateY(0px); }
-    84.69% { transform: translateY(-1px); }
-    85.50% { transform: translateY(0px); }
-    85.70% { transform: translateY(-1px); }
-    86.51% { transform: translateY(0px); }
-    86.71% { transform: translateY(-1px); }
-    86.51% { transform: translateY(0px); }
-    87.02% { transform: translateY(0px); }
-    87.22% { transform: translateY(-1px); }
-    88.03% { transform: translateY(0px); }
-    88.23% { transform: translateY(-1px); }
-    89.04% { transform: translateY(0px); }
-    89.24% { transform: translateY(-1px); }
-    90.05% { transform: translateY(0px); }
-    90.25% { transform: translateY(-1px); }
-    91.06% { transform: translateY(0px); }
-    91.26% { transform: translateY(-1px); }
-    92.07% { transform: translateY(0px); }
-    92.28% { transform: translateY(-1px); }
-    92.07% { transform: translateY(0px); }
-    92.58% { transform: translateY(0px); }
-    92.78% { transform: translateY(-1px); }
-    93.59% { transform: translateY(0px); }
-    93.79% { transform: translateY(-1px); }
-    94.60% { transform: translateY(0px); }
-    94.81% { transform: translateY(-1px); }
-    95.62% { transform: translateY(0px); }
-    95.82% { transform: translateY(-1px); }
-    96.63% { transform: translateY(0px); }
-    96.83% { transform: translateY(-1px); }
-    97.64% { transform: translateY(0px); }
-    97.84% { transform: translateY(-1px); }
-    97.64% { transform: translateY(0px); }
-    98.15% { transform: translateY(0px); }
-    98.41% { transform: translateY(-1px); }
+    84.50% { transform: translateY(0px); }
+    84.70% { transform: translateY(-1px); }
+    84.50% { transform: translateY(0px); }
+    85.01% { transform: translateY(0px); }
+    85.21% { transform: translateY(-1px); }
+    86.03% { transform: translateY(0px); }
+    86.24% { transform: translateY(-1px); }
+    87.05% { transform: translateY(0px); }
+    87.26% { transform: translateY(-1px); }
+    88.07% { transform: translateY(0px); }
+    88.28% { transform: translateY(-1px); }
+    89.10% { transform: translateY(0px); }
+    89.30% { transform: translateY(-1px); }
+    90.12% { transform: translateY(0px); }
+    90.32% { transform: translateY(-1px); }
+    90.12% { transform: translateY(0px); }
+    90.63% { transform: translateY(0px); }
+    90.83% { transform: translateY(-1px); }
+    91.65% { transform: translateY(0px); }
+    91.86% { transform: translateY(-1px); }
+    92.67% { transform: translateY(0px); }
+    92.88% { transform: translateY(-1px); }
+    93.70% { transform: translateY(0px); }
+    93.90% { transform: translateY(-1px); }
+    94.72% { transform: translateY(0px); }
+    94.92% { transform: translateY(-1px); }
+    95.74% { transform: translateY(0px); }
+    95.95% { transform: translateY(-1px); }
+    95.74% { transform: translateY(0px); }
+    96.25% { transform: translateY(0px); }
+    96.52% { transform: translateY(-1px); }
+    97.61% { transform: translateY(0px); }
+    97.89% { transform: translateY(-1px); }
+    97.61% { transform: translateY(0px); }
+    98.13% { transform: translateY(0px); }
+    98.40% { transform: translateY(-1px); }
     99.49% { transform: translateY(0px); }
     99.76% { transform: translateY(-1px); }
     99.49% { transform: translateY(0px); }
     100% { transform: translateY(0px); }
 }
-        .tool-swing { transform-origin: 8px 14px; animation: toolSwing 29.649999999999995s infinite linear; }
-        .miner-body { animation: minerBob 29.649999999999995s infinite linear; }
-        .miner-engine { animation: minerPath 29.649999999999995s infinite linear; }
+        .tool-swing { transform-origin: 8px 14px; animation: toolSwing 29.349999999999998s infinite linear; }
+        .miner-body { animation: minerBob 29.349999999999998s infinite linear; }
+        .miner-engine { animation: minerPath 29.349999999999998s infinite linear; }
     </style>
 
     <rect width="100%" height="100%" fill="#0d1117" rx="6" />
 
     <rect x="15" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="15" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="15" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="15" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="15" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="15" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="28" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="15" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="28" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="28" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="28" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="28" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="28" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="28" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="41" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="41" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="41" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="41" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="41" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="41" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="41" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="54" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="54" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="54" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="54" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="54" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="54" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="54" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="67" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="67" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="67" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="67" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="67" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="67" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="67" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="80" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="80" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="80" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="80" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="80" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="80" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="80" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="93" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="93" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="93" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="93" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="93" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="93" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="93" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="106" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="106" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="106" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="106" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="106" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="106" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="106" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="119" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="119" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="119" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="119" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="119" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="119" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="119" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="132" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="132" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="132" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="132" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="132" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="132" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="132" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="145" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="145" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="145" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="145" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="145" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="145" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="145" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="158" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="158" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="158" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="158" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="158" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="158" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="158" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="171" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="171" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="171" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1312,33 +1313,33 @@
 <rect x="314" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="314" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="314" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="327" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="327" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="327" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="327" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="327" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="327" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="327" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="340" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="340" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="340" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="340" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="340" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="340" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="353" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="353" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="353" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="353" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="353" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="353" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="353" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="366" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="366" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="366" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="366" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="366" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="366" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="366" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="379" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="379" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="379" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="379" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="379" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="379" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="379" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1351,14 +1352,14 @@
 <rect x="392" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="405" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="405" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="405" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="405" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="405" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="405" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="405" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="418" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="418" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="418" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="418" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="418" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="418" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="418" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="431" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1376,7 +1377,6 @@
 <rect x="444" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="444" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="457" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="457" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="457" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="457" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="457" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1387,6 +1387,7 @@
 <rect x="470" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="470" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="470" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="470" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="470" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="483" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="483" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1398,7 +1399,6 @@
 <rect x="496" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="496" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="496" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="496" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="496" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="496" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="496" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1406,10 +1406,11 @@
 <rect x="509" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="509" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="509" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="509" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="509" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="522" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="522" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="522" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="522" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="522" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="522" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="522" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1426,14 +1427,14 @@
 <rect x="548" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="548" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="548" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="548" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="561" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="561" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="561" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="561" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="561" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="561" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="561" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="574" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="574" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="574" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="574" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="574" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
@@ -1485,179 +1486,178 @@
 <rect x="665" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="665" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="665" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="665" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="665" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="665" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="678" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="678" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
+<rect x="678" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="678" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="678" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="678" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect x="678" y="30" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="691" y="43" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="691" y="56" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="691" y="69" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="691" y="82" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="691" y="95" width="10" height="10" rx="1.5" fill="#161b22" />
 <rect x="691" y="108" width="10" height="10" rx="1.5" fill="#161b22" />
-<rect class="b-0-6" x="15" y="108" width="10" height="10" rx="1.5" fill="#006d32" />
-<rect class="b-1-1" x="28" y="43" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-2-3" x="41" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-2-4" x="41" y="82" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-2-6" x="41" y="108" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-3-2" x="54" y="56" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-3-0" x="54" y="30" width="10" height="10" rx="1.5" fill="#006d32" />
-<rect class="b-5-2" x="80" y="56" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-6-3" x="93" y="69" width="10" height="10" rx="1.5" fill="#006d32" />
-<rect class="b-6-6" x="93" y="108" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-8-0" x="119" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-8-1" x="119" y="43" width="10" height="10" rx="1.5" fill="#006d32" />
-<rect class="b-10-6" x="145" y="108" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-11-5" x="158" y="95" width="10" height="10" rx="1.5" fill="#006d32" />
-<rect class="b-11-0" x="158" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-25-2" x="340" y="56" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-25-0" x="340" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-26-0" x="353" y="30" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-26-5" x="353" y="95" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-28-3" x="379" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-31-3" x="418" y="69" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-31-2" x="418" y="56" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-35-1" x="470" y="43" width="10" height="10" rx="1.5" fill="#26a641" />
+<rect class="b-0-1" x="15" y="43" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-1-6" x="28" y="108" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-1-4" x="28" y="82" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-1-3" x="28" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-2-0" x="41" y="30" width="10" height="10" rx="1.5" fill="#006d32" />
+<rect class="b-2-2" x="41" y="56" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-4-2" x="67" y="56" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-5-6" x="80" y="108" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-5-3" x="80" y="69" width="10" height="10" rx="1.5" fill="#006d32" />
+<rect class="b-7-1" x="106" y="43" width="10" height="10" rx="1.5" fill="#006d32" />
+<rect class="b-7-0" x="106" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-9-6" x="132" y="108" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-10-0" x="145" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-10-5" x="145" y="95" width="10" height="10" rx="1.5" fill="#006d32" />
+<rect class="b-24-0" x="327" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-24-2" x="327" y="56" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-25-5" x="340" y="95" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-25-0" x="340" y="30" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-27-3" x="366" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-30-2" x="405" y="56" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-30-3" x="405" y="69" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-34-1" x="457" y="43" width="10" height="10" rx="1.5" fill="#26a641" />
+<rect class="b-37-3" x="496" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
 <rect class="b-38-3" x="509" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-39-5" x="522" y="95" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-39-3" x="522" y="69" width="10" height="10" rx="1.5" fill="#0e4429" />
-<rect class="b-42-0" x="561" y="30" width="10" height="10" rx="1.5" fill="#26a641" />
-<rect class="b-43-5" x="574" y="95" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-51-6" x="678" y="108" width="10" height="10" rx="1.5" fill="#39d353" />
-<rect class="b-51-4" x="678" y="82" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-38-5" x="509" y="95" width="10" height="10" rx="1.5" fill="#0e4429" />
+<rect class="b-41-0" x="548" y="30" width="10" height="10" rx="1.5" fill="#26a641" />
+<rect class="b-42-5" x="561" y="95" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-50-4" x="665" y="82" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-50-6" x="665" y="108" width="10" height="10" rx="1.5" fill="#39d353" />
+<rect class="b-51-0" x="678" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
 <rect class="b-52-0" x="691" y="30" width="10" height="10" rx="1.5" fill="#0e4429" />
 
-    <line class="crack-0-6" x1="18.7" y1="113.2" x2="21.3" y2="112.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-0-6" x1="19.2" y1="115.3" x2="18.5" y2="109.7" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-0-6" x1="19.4" y1="112.6" x2="16.6" y2="113.7" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-0-6" x1="18.5" y1="115.8" x2="18.4" y2="109.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-1-1" x1="31.6" y1="48.8" x2="35.0" y2="46.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-1-1" x1="30.2" y1="50.8" x2="33.1" y2="50.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-1-1" x1="30.7" y1="48.6" x2="33.5" y2="49.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-1-1" x1="36.0" y1="48.1" x2="36.9" y2="45.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-3" x1="44.8" y1="74.1" x2="44.5" y2="73.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-3" x1="43.1" y1="71.1" x2="42.1" y2="73.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-3" x1="45.3" y1="74.6" x2="42.3" y2="72.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-3" x1="48.9" y1="72.9" x2="48.8" y2="75.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-4" x1="44.8" y1="84.4" x2="49.7" y2="83.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-4" x1="45.1" y1="88.3" x2="44.8" y2="83.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-4" x1="43.1" y1="87.5" x2="48.0" y2="90.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-4" x1="46.5" y1="87.0" x2="47.9" y2="87.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-6" x1="44.9" y1="110.9" x2="43.9" y2="111.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-6" x1="43.1" y1="110.9" x2="50.0" y2="110.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-6" x1="44.9" y1="113.2" x2="43.4" y2="110.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-2-6" x1="47.8" y1="115.2" x2="46.0" y2="112.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-2" x1="57.9" y1="62.7" x2="62.7" y2="63.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-2" x1="56.1" y1="63.6" x2="59.3" y2="60.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-2" x1="60.1" y1="62.0" x2="57.9" y2="64.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-2" x1="56.9" y1="61.5" x2="55.6" y2="60.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-0" x1="57.8" y1="36.2" x2="60.5" y2="35.4" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-0" x1="58.1" y1="35.0" x2="62.0" y2="33.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-0" x1="58.4" y1="36.3" x2="62.5" y2="36.0" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-3-0" x1="61.6" y1="33.3" x2="57.5" y2="36.0" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-5-2" x1="84.1" y1="60.4" x2="85.4" y2="62.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-5-2" x1="85.9" y1="59.1" x2="82.8" y2="61.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-5-2" x1="85.7" y1="62.6" x2="84.7" y2="61.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-5-2" x1="86.2" y1="60.9" x2="83.2" y2="64.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-3" x1="97.3" y1="75.5" x2="97.8" y2="72.6" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-3" x1="96.9" y1="74.2" x2="97.2" y2="75.6" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-3" x1="96.3" y1="75.7" x2="95.8" y2="73.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-3" x1="95.5" y1="71.6" x2="96.1" y2="74.0" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-6" x1="97.4" y1="112.2" x2="97.2" y2="110.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-6" x1="96.8" y1="114.0" x2="97.0" y2="112.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-6" x1="96.0" y1="114.3" x2="96.9" y2="111.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-6-6" x1="100.4" y1="113.9" x2="101.2" y2="111.2" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-0" x1="123.4" y1="36.4" x2="121.1" y2="33.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-0" x1="126.8" y1="35.9" x2="120.8" y2="31.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-0" x1="122.2" y1="37.6" x2="121.4" y2="31.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-0" x1="125.8" y1="34.7" x2="126.5" y2="32.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-1" x1="123.4" y1="46.7" x2="126.2" y2="51.9" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-1" x1="122.8" y1="47.2" x2="123.4" y2="49.3" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-1" x1="126.1" y1="50.5" x2="127.1" y2="49.9" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-8-1" x1="123.5" y1="48.8" x2="125.6" y2="44.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-10-6" x1="149.9" y1="113.6" x2="150.4" y2="109.5" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-10-6" x1="150.5" y1="111.1" x2="152.1" y2="114.2" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-10-6" x1="147.1" y1="115.3" x2="150.4" y2="113.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-10-6" x1="152.9" y1="112.6" x2="148.5" y2="109.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-5" x1="163.0" y1="102.2" x2="160.6" y2="99.2" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-5" x1="163.5" y1="97.6" x2="161.2" y2="101.0" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-5" x1="162.0" y1="102.7" x2="166.1" y2="97.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-5" x1="160.9" y1="101.2" x2="163.2" y2="102.9" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-0" x1="162.8" y1="33.0" x2="159.0" y2="33.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-0" x1="165.6" y1="35.2" x2="164.1" y2="37.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-0" x1="160.5" y1="32.4" x2="161.6" y2="38.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-11-0" x1="160.7" y1="36.8" x2="160.0" y2="33.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-2" x1="346.6" y1="61.3" x2="343.7" y2="64.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-2" x1="342.7" y1="62.6" x2="342.0" y2="62.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-2" x1="347.1" y1="61.9" x2="344.3" y2="60.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-2" x1="343.0" y1="60.4" x2="343.4" y2="64.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-0" x1="346.5" y1="34.8" x2="341.5" y2="36.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-0" x1="344.7" y1="34.0" x2="344.7" y2="35.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-0" x1="345.3" y1="36.2" x2="348.9" y2="31.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-25-0" x1="347.7" y1="32.3" x2="345.3" y2="31.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-0" x1="359.6" y1="33.6" x2="356.8" y2="36.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-0" x1="359.6" y1="37.8" x2="356.5" y2="31.8" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-0" x1="358.1" y1="36.5" x2="354.2" y2="34.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-0" x1="359.4" y1="34.9" x2="359.1" y2="37.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-5" x1="359.8" y1="102.9" x2="358.4" y2="102.6" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-5" x1="357.5" y1="100.1" x2="361.6" y2="103.8" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-5" x1="359.5" y1="100.8" x2="358.8" y2="100.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-26-5" x1="359.6" y1="99.4" x2="354.4" y2="99.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-28-3" x1="386.0" y1="74.1" x2="386.8" y2="73.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-28-3" x1="383.5" y1="73.1" x2="387.9" y2="77.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-28-3" x1="383.3" y1="75.6" x2="382.1" y2="77.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-28-3" x1="381.6" y1="76.6" x2="383.9" y2="77.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-3" x1="425.4" y1="76.6" x2="424.7" y2="73.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-3" x1="422.3" y1="72.5" x2="423.2" y2="74.8" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-3" x1="421.6" y1="76.4" x2="422.3" y2="76.5" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-3" x1="422.5" y1="72.6" x2="425.3" y2="70.6" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-2" x1="425.3" y1="60.3" x2="419.6" y2="63.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-2" x1="420.3" y1="61.2" x2="420.5" y2="57.2" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-2" x1="423.7" y1="63.5" x2="424.6" y2="58.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-31-2" x1="424.9" y1="58.5" x2="426.3" y2="58.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-35-1" x1="477.8" y1="45.5" x2="475.7" y2="51.7" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-35-1" x1="472.1" y1="47.0" x2="473.0" y2="49.4" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-35-1" x1="476.9" y1="45.8" x2="472.4" y2="49.6" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-35-1" x1="473.8" y1="49.1" x2="474.5" y2="44.4" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+    <line class="crack-0-1" x1="18.5" y1="49.9" x2="19.7" y2="46.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-0-1" x1="21.3" y1="47.0" x2="21.4" y2="45.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-0-1" x1="17.9" y1="48.4" x2="20.1" y2="47.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-0-1" x1="18.3" y1="45.4" x2="23.1" y2="47.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-6" x1="31.8" y1="112.0" x2="36.6" y2="112.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-6" x1="34.1" y1="113.1" x2="30.2" y2="114.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-6" x1="32.2" y1="112.9" x2="30.0" y2="116.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-6" x1="30.2" y1="112.5" x2="32.2" y2="115.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-4" x1="31.7" y1="85.5" x2="34.4" y2="84.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-4" x1="30.2" y1="84.6" x2="33.0" y2="87.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-4" x1="30.4" y1="87.2" x2="34.6" y2="87.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-4" x1="34.9" y1="84.3" x2="34.1" y2="90.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-3" x1="31.7" y1="75.3" x2="29.2" y2="74.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-3" x1="34.2" y1="73.3" x2="30.4" y2="77.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-3" x1="32.5" y1="74.3" x2="36.9" y2="77.7" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-1-3" x1="31.2" y1="76.2" x2="35.0" y2="77.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-0" x1="44.7" y1="37.4" x2="45.2" y2="35.7" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-0" x1="43.2" y1="37.3" x2="42.3" y2="37.0" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-0" x1="45.6" y1="36.0" x2="49.1" y2="33.6" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-0" x1="44.0" y1="36.7" x2="43.7" y2="38.4" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-2" x1="44.7" y1="63.9" x2="47.4" y2="63.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-2" x1="47.1" y1="59.8" x2="47.5" y2="64.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-2" x1="47.4" y1="61.7" x2="44.5" y2="61.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-2-2" x1="45.2" y1="58.8" x2="49.8" y2="63.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-4-2" x1="71.0" y1="61.6" x2="70.1" y2="63.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-4-2" x1="71.0" y1="61.4" x2="71.0" y2="57.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-4-2" x1="72.9" y1="62.3" x2="71.3" y2="58.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-4-2" x1="74.5" y1="58.2" x2="69.4" y2="58.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-6" x1="84.3" y1="113.4" x2="81.9" y2="111.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-6" x1="87.9" y1="110.2" x2="85.3" y2="115.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-6" x1="83.2" y1="114.0" x2="83.5" y2="109.5" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-6" x1="82.7" y1="111.2" x2="87.4" y2="113.6" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-3" x1="84.2" y1="76.6" x2="82.5" y2="72.9" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-3" x1="87.9" y1="76.4" x2="85.4" y2="71.2" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-3" x1="83.6" y1="75.4" x2="82.4" y2="71.1" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-5-3" x1="83.8" y1="75.0" x2="82.3" y2="76.4" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-1" x1="110.3" y1="47.8" x2="110.9" y2="44.2" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-1" x1="113.8" y1="49.4" x2="111.7" y2="44.9" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-1" x1="113.3" y1="50.2" x2="113.7" y2="47.6" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-1" x1="111.8" y1="46.1" x2="111.8" y2="46.9" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-0" x1="110.3" y1="37.6" x2="113.8" y2="34.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-0" x1="111.9" y1="32.1" x2="109.1" y2="35.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-0" x1="109.4" y1="37.4" x2="108.0" y2="37.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-7-0" x1="108.2" y1="32.1" x2="112.7" y2="34.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-9-6" x1="136.8" y1="114.8" x2="135.1" y2="109.8" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-9-6" x1="135.6" y1="113.3" x2="140.3" y2="109.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-9-6" x1="134.3" y1="115.1" x2="137.0" y2="111.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-9-6" x1="135.3" y1="115.9" x2="134.7" y2="112.1" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-0" x1="149.6" y1="34.1" x2="151.7" y2="33.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-0" x1="150.7" y1="37.5" x2="152.3" y2="32.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-0" x1="147.8" y1="32.2" x2="148.2" y2="36.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-0" x1="149.1" y1="34.1" x2="146.2" y2="35.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-5" x1="149.8" y1="97.4" x2="153.3" y2="99.5" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-5" x1="148.6" y1="99.8" x2="149.5" y2="96.6" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-5" x1="149.2" y1="102.5" x2="152.7" y2="103.2" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-10-5" x1="149.3" y1="98.5" x2="149.4" y2="97.3" stroke="#006d32" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-0" x1="333.4" y1="35.9" x2="334.1" y2="37.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-0" x1="329.8" y1="36.3" x2="333.0" y2="38.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-0" x1="332.6" y1="35.9" x2="335.5" y2="37.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-0" x1="330.1" y1="35.6" x2="331.5" y2="34.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-2" x1="333.5" y1="62.4" x2="328.4" y2="57.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-2" x1="333.7" y1="58.8" x2="330.2" y2="58.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-2" x1="334.3" y1="61.7" x2="330.9" y2="57.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-24-2" x1="331.4" y1="63.8" x2="329.6" y2="58.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-5" x1="346.7" y1="98.0" x2="343.1" y2="102.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-5" x1="342.6" y1="102.4" x2="341.8" y2="99.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-5" x1="346.8" y1="100.5" x2="345.4" y2="98.6" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-5" x1="347.9" y1="102.7" x2="348.6" y2="101.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-0" x1="346.5" y1="34.8" x2="341.5" y2="36.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-0" x1="344.7" y1="34.0" x2="344.7" y2="35.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-0" x1="345.3" y1="36.2" x2="348.9" y2="31.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-25-0" x1="347.7" y1="32.3" x2="345.3" y2="31.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-27-3" x1="372.9" y1="75.2" x2="371.5" y2="74.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-27-3" x1="368.5" y1="75.4" x2="368.1" y2="73.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-27-3" x1="370.5" y1="75.3" x2="368.7" y2="75.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-27-3" x1="369.9" y1="73.9" x2="370.1" y2="72.1" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-2" x1="412.2" y1="61.5" x2="412.3" y2="63.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-2" x1="411.4" y1="63.4" x2="408.8" y2="60.8" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-2" x1="411.0" y1="63.3" x2="411.2" y2="64.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-2" x1="407.2" y1="61.8" x2="412.5" y2="60.6" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-3" x1="412.2" y1="71.7" x2="409.4" y2="73.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-3" x1="407.3" y1="74.7" x2="411.4" y2="70.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-3" x1="408.9" y1="76.1" x2="408.9" y2="74.1" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-30-3" x1="410.9" y1="75.9" x2="411.5" y2="73.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-34-1" x1="464.6" y1="46.6" x2="460.4" y2="44.0" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-34-1" x1="463.1" y1="49.2" x2="461.2" y2="45.0" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-34-1" x1="464.2" y1="45.5" x2="459.0" y2="47.3" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-34-1" x1="462.1" y1="46.4" x2="460.7" y2="46.7" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-37-3" x1="498.1" y1="75.6" x2="500.6" y2="71.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-37-3" x1="499.9" y1="71.1" x2="501.7" y2="77.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-37-3" x1="498.3" y1="72.0" x2="502.5" y2="74.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-37-3" x1="498.4" y1="76.7" x2="500.2" y2="72.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-38-3" x1="511.2" y1="74.5" x2="515.9" y2="70.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-38-3" x1="514.8" y1="74.9" x2="513.5" y2="74.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-38-3" x1="511.0" y1="72.3" x2="515.9" y2="77.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-38-3" x1="516.0" y1="73.3" x2="514.0" y2="70.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-5" x1="524.4" y1="99.8" x2="525.5" y2="98.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-5" x1="527.7" y1="101.2" x2="530.5" y2="97.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-5" x1="525.6" y1="98.3" x2="524.7" y2="99.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-5" x1="528.9" y1="98.2" x2="525.9" y2="100.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-3" x1="524.3" y1="73.3" x2="523.3" y2="70.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-3" x1="529.8" y1="72.6" x2="525.2" y2="70.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-3" x1="529.8" y1="72.5" x2="529.3" y2="71.4" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-39-3" x1="527.6" y1="76.0" x2="527.8" y2="75.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-42-0" x1="563.6" y1="33.1" x2="569.8" y2="31.5" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-42-0" x1="568.6" y1="32.2" x2="568.7" y2="39.0" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-42-0" x1="568.4" y1="34.8" x2="568.3" y2="32.0" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-42-0" x1="563.6" y1="35.8" x2="564.1" y2="31.3" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-43-5" x1="576.9" y1="101.2" x2="578.8" y2="97.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-43-5" x1="581.5" y1="98.3" x2="577.5" y2="99.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-43-5" x1="576.7" y1="99.3" x2="578.2" y2="101.1" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-43-5" x1="581.5" y1="102.9" x2="581.2" y2="98.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-6" x1="681.9" y1="114.2" x2="682.4" y2="113.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-6" x1="684.9" y1="115.7" x2="682.2" y2="112.6" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-6" x1="682.7" y1="114.3" x2="683.0" y2="114.1" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-6" x1="684.3" y1="114.4" x2="682.7" y2="116.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-4" x1="681.9" y1="87.7" x2="680.2" y2="84.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-4" x1="681.0" y1="87.2" x2="685.0" y2="85.4" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-4" x1="680.9" y1="88.6" x2="679.6" y2="85.8" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
-<line class="crack-51-4" x1="683.0" y1="86.2" x2="684.6" y2="83.5" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-38-5" x1="511.3" y1="101.0" x2="510.2" y2="98.9" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-38-5" x1="512.8" y1="97.4" x2="510.7" y2="101.2" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-38-5" x1="512.8" y1="98.0" x2="511.3" y2="97.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-38-5" x1="511.3" y1="101.5" x2="512.1" y2="102.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-41-0" x1="550.5" y1="34.3" x2="554.5" y2="31.8" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-41-0" x1="553.7" y1="34.4" x2="556.9" y2="34.5" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-41-0" x1="555.7" y1="34.5" x2="554.9" y2="37.7" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-41-0" x1="552.0" y1="33.1" x2="550.3" y2="33.7" stroke="#26a641" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-42-5" x1="563.8" y1="102.4" x2="563.4" y2="97.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-42-5" x1="566.5" y1="100.5" x2="565.8" y2="103.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-42-5" x1="563.9" y1="99.1" x2="564.9" y2="98.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-42-5" x1="563.8" y1="100.2" x2="567.4" y2="101.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-4" x1="668.7" y1="88.9" x2="672.9" y2="85.2" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-4" x1="672.0" y1="89.4" x2="673.2" y2="89.0" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-4" x1="668.2" y1="88.4" x2="666.2" y2="83.5" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-4" x1="671.3" y1="89.6" x2="670.8" y2="85.9" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-6" x1="668.8" y1="115.4" x2="667.1" y2="113.3" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-6" x1="670.0" y1="111.9" x2="670.5" y2="116.1" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-6" x1="670.0" y1="114.1" x2="669.6" y2="111.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-50-6" x1="672.6" y1="111.7" x2="668.9" y2="110.7" stroke="#39d353" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-51-0" x1="681.7" y1="34.7" x2="683.7" y2="36.8" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-51-0" x1="685.1" y1="36.1" x2="682.5" y2="31.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-51-0" x1="683.4" y1="37.2" x2="680.7" y2="37.3" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
+<line class="crack-51-0" x1="680.4" y1="35.9" x2="680.4" y2="34.0" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-52-0" x1="694.8" y1="33.5" x2="699.0" y2="36.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-52-0" x1="694.0" y1="33.9" x2="694.3" y2="35.5" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-52-0" x1="696.2" y1="37.5" x2="694.1" y2="31.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 <line class="crack-52-0" x1="698.1" y1="32.6" x2="694.2" y2="31.6" stroke="#0e4429" stroke-width="0.8" stroke-linecap="round"/>
 
 
-    <g class="miner-engine" transform="translate(11, 96)">
+    <g class="miner-engine" transform="translate(11, 31)">
         <g class="miner-body">
             <rect x="5" y="11" width="10" height="12" rx="2" fill="#f1c40f" />
             <rect x="6" y="17" width="3"  height="6"  rx="1" fill="#e6b800" />
