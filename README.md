@@ -4,11 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Linux+Enthusiast;Python+%26+Lua+Developer;AI+%2F+ComfyUI+Workflows;Building+Small+Useful+Projects" />
-</p>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,lua,linux" />
 </p>
 
 <p align="center">
@@ -33,7 +29,6 @@
 
 ![](https://raw.githubusercontent.com/sypcerr/sypcerr/main/mining-grid.svg)
 <p align="center">
-  ↑
   <br>
   <a href="https://github.com/sypcerr/profile-activity-miner">
     <img src="https://img.shields.io/badge/Get%20This%20Grid-171717?style=for-the-badge&logo=github&logoColor=white"/>
