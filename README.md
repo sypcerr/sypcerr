@@ -25,6 +25,7 @@ I like software that does one thing well: small, fast, and easy to understand. O
 <p>
   <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-161b22?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
@@ -41,3 +42,11 @@ I like software that does one thing well: small, fast, and easy to understand. O
   <img src="https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/ComfyUI-161b22?style=for-the-badge&logo=comfyui&logoColor=white"/>
 </p>
+
+<br>
+
+<div align="center">
+
+<sub>More about me and my work at <a href="https://sypcerr.github.io">sypcerr.github.io</a></sub>
+
+</div>
