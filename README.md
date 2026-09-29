@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1793D1&height=120&section=header&text=Paul&fontColor=ffffff&fontSize=54&fontAlignY=55" width="30%" alt="Paul"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:F5C518&height=120&section=header&text=Paul&fontColor=ffffff&fontSize=54&fontAlignY=55" width="30%" alt="Paul"/>
 
 ### Apprentice IT Specialist · System Integration
 
