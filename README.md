@@ -1,45 +1,43 @@
 <div align="center">
 
-## 👋 Hey, I'm Paul  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1793D1&height=120&section=header&text=Paul&fontColor=ffffff&fontSize=54&fontAlignY=55" width="30%" alt="Paul"/>
 
+### Apprentice IT Specialist · System Integration
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-111111?style=for-the-badge&logo=arch-linux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/ComfyUI-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
-</p>
-
----
-
-## 📦 What I Build
-
-```txt
-> lightweight tools
-> AI workflows
-> clean & minimal software
-````
-
----
-
-## 📊 GitHub Activity
-
-![](https://raw.githubusercontent.com/sypcerr/sypcerr/main/mining-grid.svg)
-<p align="center">
-  <br>
-  <a href="https://github.com/sypcerr/profile-activity-miner">
-    <img src="https://img.shields.io/badge/Get%20This%20Grid-171717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
----
-
-<p align="center">
-  <i>Motivated, ready to build something.</i>
-</p>
+Building lightweight tools and self-hosted AI workflows on Linux.
 
 </div>
+
+<br>
+
+## About
+
+I'm in the first year of my training as a **Fachinformatiker für Systemintegration** (IT specialist for system integration).
+
+I like software that does one thing well: small, fast, and easy to understand. Outside of training I experiment with local AI setups and spend a lot of time on Linux.
+
+<br>
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-161b22?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=white"/>
+</p>
+
+**Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-161b22?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-161b22?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+**AI tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ComfyUI-161b22?style=for-the-badge&logo=comfyui&logoColor=white"/>
+</p>
