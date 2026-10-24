@@ -12,7 +12,7 @@ Building lightweight tools and self-hosted AI workflows on Linux.
 
 ## About
 
-I'm in the first year of my training as a **Fachinformatiker für Systemintegration** (IT specialist for system integration).
+I'm in the first year of my training as a **Fachinformatiker für Systemintegration** (IT Systems Engineer).
 
 I like software that does one thing well: small, fast, and easy to understand. Outside of training I experiment with local AI setups and spend a lot of time on Linux.
 
